@@ -142,41 +142,6 @@ blockquote em, blockquote cite, blockquote i {
   font-variant: normal;
 }
 
-.ie img {
-  -ms-interpolation-mode: bicubic;
-}
-
-legend {
-  position: absolute;
-  z-index: -1;
-  font-size: 0;
-  height: 0;
-  color: transparent;
-}
-
-/* Media object. See https://github.com/stubbornella/oocss/tree/master/core/media
- ========================================================================== */
-
-.media {
-  display: block;
-  margin-bottom: 0.66666666666667em; /* 16/24px */
-  overflow: hidden;
-}
-
-.media-pull-left {
-  float: left;
-  margin-right: 20px;
-}
-
-.media-pull-right {
-  float: right;
-  margin-left: 20px;
-}
-
-.media-body {
-  overflow: hidden;
-}
-
 /* ==========================================================================
  Typography
  16px / 32px / 64px line heights
@@ -204,10 +169,6 @@ textarea, .sans {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   color: #000;
-}
-
-.swing {
-  font-family: "swingdancer-1","swingdancer-2", Baskerville, Georgia, cursive;
 }
 
 p, ul, ol, dl, table {
@@ -247,14 +208,6 @@ h1 a,
 h2 a,
 h3 a {
   text-decoration: none;
-}
-
-h2.swing {
-  font-size: 64px;
-  line-height: 72px;
-  margin: 0 10px;
-  padding: 17px 0 17px;
-  color: #333;
 }
 
 /* ==========================================================================
