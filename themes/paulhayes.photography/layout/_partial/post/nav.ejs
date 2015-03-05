@@ -8,7 +8,7 @@
   }
 %>
 <% if (post.prev || post.next) { %>
-  <nav>
+  <nav class="next-prev-posts">
     <% if (post.next) { %>
       <a href="<%- config.root %><%- post.next.path %>" title="<%= post.next.title %>" rel="prev" data-key="left">&larr; Prev</a>
     <% } %>

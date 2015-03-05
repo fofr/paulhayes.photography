@@ -372,3 +372,7 @@ h3 a {
   line-height: 1em;
   margin-bottom: 24px;
 }
+
+.next-prev-posts {
+  text-align: center;
+}
