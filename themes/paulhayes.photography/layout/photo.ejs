@@ -1,0 +1,31 @@
+<%
+  photo = page;
+  file = '/photo/' + date(photo.date, 'YYYY-MM') + '-' + photo.slug;
+  photo.image_path = file + '-small.' + (photo.type ? photo.type : 'jpg');
+  photo.link_path = file + '-original.' + (photo.type ? photo.type : 'jpg');
+%>
+<main role="main">
+  <article class="container single-photo clearfix">
+    <div class="photo-image-wrapper">
+      <img src="<%= photo.image_path %>" class="photo-image" alt="<%= photo.title %>" />
+    </div>
+    <div class="photo-detail">
+      <header class="photo-header">
+        <h1 class="main-content-title photo-title">
+          <%= photo.title %>
+        </h1>
+      </header>
+      <div class="photo-content">
+        <%- photo.content %>
+      </div>
+    </div>
+    <div class="photo-meta">
+      <%- partial('_partial/photo/exif', {photo: photo}) %>
+      <%- partial('_partial/post/published', {post: photo}) %>
+      <%- partial('_partial/photo/external', {photo: photo}) %>
+
+    </div>
+  </article>
+
+  <%- partial('_partial/post/nav', {post: photo}) %>
+</main>

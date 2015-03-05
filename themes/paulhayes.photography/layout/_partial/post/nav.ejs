@@ -1,0 +1,20 @@
+<%
+  while (post.prev && post.prev.layout != post.layout) {
+    post.prev = post.prev.prev || null;
+  }
+
+  while (post.next && post.next.layout != post.layout) {
+    post.next = post.next.next || null;
+  }
+%>
+<% if (post.prev || post.next) { %>
+  <nav>
+    <% if (post.next) { %>
+      <a href="<%- config.root %><%- post.next.path %>" title="<%= post.next.title %>" rel="prev" data-key="left">&larr; Prev</a>
+    <% } %>
+    <% if (post.prev && post.next) { %> | <% } %>
+    <% if (post.prev) { %>
+      <a href="<%- config.root %><%- post.prev.path %>" title="<%= post.prev.title %>" rel="next" data-key="right">Next &rarr;</a>
+    <% } %>
+  </nav>
+<% } %>

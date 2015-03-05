@@ -1,0 +1,5 @@
+<% if (page.layout == 'page') { %>
+  <%- partial('_partial/page', {post: page}) %>
+<% } else { %>
+  <%- partial('_partial/article', {post: page}) %>
+<% } %>

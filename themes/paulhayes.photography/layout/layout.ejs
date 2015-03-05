@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" id="paulhayes-photography" class="no-js">
+<head>
+  <%- partial('_partial/head') %>
+</head>
+<body>
+  <%
+   wrapperClass = "wrapper hfeed";
+   if (is_home()) {
+     wrapperClass += " home";
+   }
+
+   if (typeof page.layout !== 'undefined') {
+     wrapperClass += " layout-" + page.layout;
+   }
+
+   if (is_category()) {
+     wrapperClass += " category-" + page.category;
+   }
+  %>
+  <div class="<%= wrapperClass %>">
+    <%- partial('_partial/header') %>
+    <%- body %>
+    <% if (page.footer !== false) { %>
+      <%- partial('_partial/footer') %>
+    <% } %>
+  </div>
+  <!--[if lte IE 8]>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>!window.jQuery && document.write('<script src="/js/jquery-1.11.1.min.js"><\/script>')</script>
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>!window.jQuery && document.write('<script src="/js/jquery-2.1.1.min.js"><\/script>')</script>
+  <!--<![endif]-->
+  <script src="/js/mousetrap.min.js"></script>
+  <script src="/js/master.js?<%= config.site_build %>"></script>
+</body>
+</html>

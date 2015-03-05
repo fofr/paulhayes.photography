@@ -1,0 +1,10 @@
+<%
+  photo = post;
+  file = '/photo/' + date(photo.date, 'YYYY-MM') + '-' + photo.slug;
+  photo.image_path = file + '-square.' + (photo.type ? photo.type : 'jpg');
+%>
+<li class="listing-item">
+  <a href="<%- config.root %><%- post.path %>" class="listing-image-link">
+    <img src="<%= photo.image_path %>" alt="<%= post.title %>" class="listing-image" title="<%= post.title %>" />
+  </a>
+</li>

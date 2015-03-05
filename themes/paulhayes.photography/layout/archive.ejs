@@ -1,0 +1,16 @@
+<h2 class="main-content-title">
+  <%
+    if (is_archive()){
+      if (is_month()){
+        var d = moment([page.year, page.month - 1, 1]);
+        title = d.format('MMMM YYYY');
+      } else if (is_year()){
+        title = page.year;
+      } else {
+        title = 'Archive';
+      }
+    }
+  %>
+  <%= title %>
+</h2>
+<%- partial('_partial/archive') %>

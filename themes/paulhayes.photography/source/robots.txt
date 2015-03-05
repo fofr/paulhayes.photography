@@ -1,0 +1,3 @@
+Sitemap: http://paulhayes.photography/sitemap.xml
+User-agent: *
+Disallow: /contact/

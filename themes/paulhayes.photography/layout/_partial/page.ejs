@@ -1,0 +1,15 @@
+<main role="main">
+  <article class="article h-entry">
+    <header class="article-header">
+      <h1 class="main-content-title entry-title p-name">
+        <%= page.title %>
+      </h1>
+    </header>
+    <div class="article-content entry-content e-content">
+      <%- page.content %>
+    </div>
+    <% if (page.footer !== false) { %>
+      <%- partial('page/page-footer') %>
+    <% } %>
+  </article>
+</main>
