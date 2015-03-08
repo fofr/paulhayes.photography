@@ -384,9 +384,9 @@ a:active {
 
 .photo-image-wrapper {
   margin: 0 -40px;
-  min-height: 300px;
-  position: relative;
+  min-height: 100px;
   background: #eee;
+  position: relative;
   line-height: 0;
 }
 
