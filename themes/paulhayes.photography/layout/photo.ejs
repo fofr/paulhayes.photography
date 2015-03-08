@@ -1,13 +1,12 @@
 <%
   photo = page;
-  file = '/photo/' + date(photo.date, 'YYYY-MM') + '-' + photo.slug;
-  photo.image_path = file + '-small.' + (photo.type ? photo.type : 'jpg');
-  photo.link_path = file + '-original.' + (photo.type ? photo.type : 'jpg');
+  photo.filename = photo.filename || photo.slug;
+  photo.file = config.image_dir + '1720/' + photo.filename + '.' + (photo.type ? photo.type : 'jpg');
 %>
 <main role="main">
   <article class="container single-photo clearfix" id="photo">
     <div class="photo-image-wrapper">
-      <img src="<%= photo.image_path %>" class="photo-image" alt="<%= photo.title %>" />
+      <img src="<%= photo.file %>" class="photo-image" alt="<%= photo.title %>" />
       <%- partial('_partial/post/nav', {post: photo}) %>
     </div>
     <div class="photo-detail">

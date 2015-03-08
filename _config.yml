@@ -18,6 +18,7 @@ tag_dir: tag
 archive_dir: archive
 category_dir: category
 code_dir: downloads/code
+image_dir: /images/local/
 
 # Directory
 source_dir: source
