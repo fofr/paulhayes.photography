@@ -29,4 +29,6 @@ if (is_archive()){
 <% if (is_post()) { %>
   <%- partial('_partial/photo/og', {photo: page}) %>
   <%- partial('_partial/photo/twitter-card', {photo: page}) %>
+<% } else { %>
+  <%- partial('_partial/twitter-card') %>
 <% } %>

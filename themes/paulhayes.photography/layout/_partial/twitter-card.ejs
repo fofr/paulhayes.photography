@@ -1,0 +1,16 @@
+<%
+  first_photo = null;
+  site.posts.sort('date', 1).each(function(latestPost, i){
+    if (latestPost.exif) {
+      first_photo = latestPost
+      first_photo.filename = first_photo.filename || first_photo.slug;
+      first_photo.file = config.image_dir + '435/' + first_photo.filename + '.' + (first_photo.type ? first_photo.type : 'jpg');
+    }
+  });
+%>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@fofr" />
+<meta name="twitter:title" content="Paul Hayes – Brighton and Sussex Landscape Photographer" />
+<meta name="twitter:description" content="View photos" />
+<% if (first_photo) { %><meta name="twitter:image" content="<%= first_photo.file %>" /><% } %>
+<meta name="twitter:url" content="http://paulhayes.photography" />
