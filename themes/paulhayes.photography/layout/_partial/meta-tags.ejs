@@ -1,0 +1,21 @@
+<%
+  first_photo = null;
+  site.posts.sort('date', 1).each(function(latestPost, i){
+    if (latestPost.exif) {
+      first_photo = latestPost
+      first_photo.filename = first_photo.filename || first_photo.slug;
+      first_photo.file = config.image_dir + '435/' + first_photo.filename + '.' + (first_photo.type ? first_photo.type : 'jpg');
+    }
+  });
+%>
+<meta content="website" property="og:type" />
+<meta content="<%= config.url %>" property="og:url" />
+<meta content="Paul Hayes Photography" property="og:title" />
+<meta content="Brighton and Sussex Landscape Photographer" property="og:description" />
+<% if (first_photo) { %><meta content="<%= first_photo.file %>" property="og:image" /><% } %>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@fofr" />
+<meta name="twitter:title" content="Paul Hayes Photography" />
+<meta name="twitter:description" content="Brighton and Sussex Landscape Photographer" />
+<% if (first_photo) { %><meta name="twitter:image" content="<%= first_photo.file %>" /><% } %>
+<meta name="twitter:url" content="<%= config.url %>" />
