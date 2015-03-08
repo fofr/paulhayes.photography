@@ -185,16 +185,8 @@ ul ul, ol ol, ol ul, ul ol, dl dl, dl ul, dl ol, ul dl, ol dl {
  ========================================================================== */
 
 a {
-  color: #222;
-}
-
-a:visited {
-  font-weight: normal;
-}
-
-.strong a:visited,
-a.strong:visited {
-  font-weight: bold;
+  color: #000; /* for older browsers */
+  color: inherit;
 }
 
 a:hover,
@@ -202,12 +194,6 @@ a:focus,
 a:active {
   color: #000;
   text-decoration: underline;
-}
-
-h1 a,
-h2 a,
-h3 a {
-  text-decoration: none;
 }
 
 /* ==========================================================================
