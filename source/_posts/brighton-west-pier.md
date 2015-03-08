@@ -10,6 +10,7 @@ lens: "Canon EF 50mm f/1.4 USM"
 aperture: "ƒ/4.5"
 shutter: "1/160"
 iso: 100
+focal: "50.0mm"
 
 categories:
   - photography

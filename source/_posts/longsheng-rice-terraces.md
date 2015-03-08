@@ -4,6 +4,7 @@ date: 2014-09-25
 flickr: https://www.flickr.com/photos/prhayes/15365746487/
 500px: https://500px.com/photo/87435759/golden-rice-terraces-by-paul-hayes
 instagram: http://instagram.com/p/tXY9uzNFNr/
+natgeo: http://yourshot.nationalgeographic.com/photos/4678987/
 
 exif: true
 camera: "Canon EOS 500D"
