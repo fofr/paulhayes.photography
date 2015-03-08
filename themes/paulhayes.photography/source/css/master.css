@@ -423,12 +423,8 @@ a:active {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  padding-top: 8px;
-  top: 48%;
-}
-
-.wf-active .nav-arrow {
   padding-top: 12px;
+  top: 48%;
 }
 
 .nav-arrow:hover,
