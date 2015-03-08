@@ -16,4 +16,4 @@ categories:
   - photography
 ---
 
-Taken at the British Wildlife Centre in Sussex, during my first wildlife photography lesson. Occasionally this fox would stoop down and look up expectantly. From my vantage point, lying in the grass, I waited for the late summer sun to catch his face.
+Taken at the British Wildlife Centre in Sussex. Occasionally this fox would stoop down and look up expectantly. From my vantage point, lying in the grass, I waited for the late summer sun to catch his face.

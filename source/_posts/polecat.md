@@ -16,4 +16,4 @@ categories:
   - photography
 ---
 
-From a wildlife photography lesson at the British Wildlife Centre in Sussex. This polecat was dancing about, very rarely stopping for anything. For a split second he raised his head in just the right position, the warm midsummer light catching his face amongst the flowers.
+This polecat was dancing about, very rarely stopping for anything. For a split second he raised his head in just the right position, the warm midsummer light catching his face amongst the flowers.

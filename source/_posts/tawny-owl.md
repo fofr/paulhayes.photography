@@ -17,4 +17,4 @@ categories:
   - photography
 ---
 
-Taken at the British Wildlife Centre in Sussex, during my first wildlife photography lesson. I love the brown tones of the owl’s plumage against the bark of the tree.
+Taken at the British Wildlife Centre in Sussex. I love the brown tones of the owl’s plumage against the bark of the tree.
