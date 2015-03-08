@@ -378,6 +378,7 @@ a:active {
 
 .photo-image-wrapper {
   margin: 0 -40px;
+  min-height: 300px;
 }
 
 .photo-meta {
