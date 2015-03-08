@@ -1,0 +1,8 @@
+<%
+  photo.filename = photo.filename || photo.slug;
+  photo.file = config.image_dir + '860/' + photo.filename + '.' + (photo.type ? photo.type : 'jpg');
+%>
+<meta content="website" property="og:type" />
+<meta content="<%= photo.permalink %>" property="og:url" />
+<meta content="<%= photo.title %> – <%= config.title %>" property="og:title" />
+<meta content="<%= photo.file %>" property="og:image" />
