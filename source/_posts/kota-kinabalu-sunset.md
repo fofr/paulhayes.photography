@@ -13,8 +13,12 @@ shutter: "1/640"
 iso: 100
 focal: "75.0mm"
 
-categories:
-  - photography
+tags:
+  - landscape
+  - beach
+  - sunset
+  - borneo
+  - travel
 ---
 
 From our [trip to Kota Kinabalu, Borneo](http://www.sam-and-paul.com/2014/05/shangri-la-rasa-ria-borneo/). Every night the view of sunset from out hotel was spectacular. The beach faces west for a per­fect beach­side sun­set. And every night, as the sun went down and the sky turned red, guests flocked to the sea with their expen­sive cam­eras and tripods (or iPads) to try and cap­ture it.

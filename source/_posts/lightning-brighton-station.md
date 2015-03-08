@@ -13,8 +13,16 @@ shutter: "30"
 iso: 100
 focal: "50.0mm"
 
-categories:
-  - photography
+tags:
+  - landscape
+  - brighton
+  - night
+  - long-exposure
+  - city
+  - black-and-white
+  - sussex
+  - lightning
+  - storm
 ---
 
 The storm, which [came in from the sea](/2014-07/lightning-brighton/), continued north, over the city and out to the south downs. As rain began barreling in the south facing window, I looked East to capture this with my first attempt.

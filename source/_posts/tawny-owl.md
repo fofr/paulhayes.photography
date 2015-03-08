@@ -14,8 +14,12 @@ shutter: "1/160"
 iso: 1600
 focal: "200.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - birds
+  - owl
+  - evening
+  - summer
 ---
 
 Taken at the British Wildlife Centre in Sussex. I love the brown tones of the owl’s plumage against the bark of the tree.

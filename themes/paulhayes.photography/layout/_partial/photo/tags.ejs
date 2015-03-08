@@ -1,0 +1,6 @@
+<% if (photo.tags && photo.tags.length){ %>
+  <%- list_tags(photo.tags, {
+    show_count: false,
+    class: 'article-tag'
+  }) %>
+<% } %>

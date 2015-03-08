@@ -13,8 +13,12 @@ shutter: "1/2500"
 iso: 800
 focal: "200.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - mammals
+  - mouse
+  - evening
+  - summer
 ---
 
 In the midsummer evening, this friendly harvest mouse paused to have a look around before climbing to the top of the wheat.

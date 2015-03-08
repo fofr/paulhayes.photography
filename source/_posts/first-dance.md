@@ -12,8 +12,10 @@ shutter: "1/50"
 iso: 500
 focal: "50.0mm"
 
-categories:
-  - photography
+tags:
+  - wedding
+  - black-and-white
+  - people
 ---
 
 The end of Frankie and Tim’s carefully choreographed first dance. I’m not a wedding photographer, the stress would be too much, but I always take my camera along to a wedding.

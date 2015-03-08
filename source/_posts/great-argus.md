@@ -12,8 +12,14 @@ shutter: "1/50"
 iso: 1600
 focal: "200.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - birds
+  - borneo
+  - wild
+  - danum-valley
+  - asia
+  - travel
 ---
 
 From our [trip to Danum Valley, Borneo](http://www.sam-and-paul.com/2014/05/borneo-rainforest-lodge/).

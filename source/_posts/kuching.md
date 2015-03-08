@@ -13,8 +13,15 @@ shutter: "20"
 iso: 100
 focal: "23.0mm"
 
-categories:
-  - photography
+tags:
+  - landscape
+  - night
+  - city
+  - kuching
+  - borneo
+  - travel
+  - long-exposure
+  - sarawak
 ---
 
 From our [trip to Kuching, Borneo](http://www.sam-and-paul.com/2014/05/kuching-borneo/).

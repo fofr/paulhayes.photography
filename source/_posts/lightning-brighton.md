@@ -13,8 +13,15 @@ shutter: "30"
 iso: 400
 focal: "50.0mm"
 
-categories:
-  - photography
+tags:
+  - landscape
+  - brighton
+  - night
+  - long-exposure
+  - sussex
+  - lightning
+  - storm
+  - sea
 ---
 
 At 1am a feisty storm, the flashiest I’ve seen in Brighton, approached from the sea and passed directly overhead. I was lucky enough to capture this triple strike, which illuminated a ship between them.

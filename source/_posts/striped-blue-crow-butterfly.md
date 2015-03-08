@@ -13,8 +13,15 @@ shutter: "1/320"
 iso: 100
 focal: "200.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - insects
+  - butterfly
+  - china
+  - longsheng
+  - macro
+  - travel
+  - asia
 ---
 
 Spotted on the trail from Ping’an village to Zhuang village in the [Longsheng rice terraces](http://sam-and-paul.com/2014/09/longsheng-rice-terraces-china/2/). There were thousands of butterflies, but only one of these gorgeous creatures.

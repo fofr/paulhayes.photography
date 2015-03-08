@@ -13,8 +13,13 @@ shutter: "1/1250"
 iso: 100
 focal: "192.0mm"
 
-categories:
-  - photography
+tags:
+  - balloons
+  - bristol
+  - balloon-fiesta
+  - sunrise
+  - summer
+  - landscape
 ---
 
 Awake at 4am, and at the Bristol balloon fiesta by 6am. The weather conditions were perfect, and when the morning light peeked over the horizon 100 balloons began their ascent from Ashton Court.

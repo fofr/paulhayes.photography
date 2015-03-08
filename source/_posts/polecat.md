@@ -14,8 +14,12 @@ shutter: "1/1000"
 iso: 800
 focal: "200.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - mammals
+  - polecat
+  - evening
+  - summer
 ---
 
 This polecat was dancing about, very rarely stopping for anything. For a split second he raised his head in just the right position, the warm midsummer light catching his face amongst the flowers.

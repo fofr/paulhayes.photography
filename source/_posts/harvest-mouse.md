@@ -14,8 +14,12 @@ shutter: "1/640"
 iso: 400
 focal: "200.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - mammals
+  - mouse
+  - evening
+  - summer
 ---
 
 This harvest mouse kindly climbed to the top of the wheat to be photographed in the midsummer evening. He balanced precariously on the edge, his tail wrapped around for safety whilst sniffing out something delicious.

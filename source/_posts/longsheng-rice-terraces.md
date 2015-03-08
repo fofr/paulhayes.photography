@@ -14,8 +14,15 @@ shutter: "1/640"
 iso: 100
 focal: "81.0mm"
 
-categories:
-  - photography
+tags:
+  - china
+  - asia
+  - travel
+  - landscape
+  - rice
+  - longsheng
+  - morning
+  - golden
 ---
 
 From [our trip to the Longsheng rice terraces](http://sam-and-paul.com/2014/09/longsheng-rice-terraces-china/) in Guanxi, China.

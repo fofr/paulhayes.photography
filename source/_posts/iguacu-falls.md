@@ -12,6 +12,9 @@ shutter: "1/200"
 iso: 800
 focal: "18.0mm"
 
-categories:
-  - photography
+tags:
+  - brazil
+  - waterfall
+  - south-america
+  - travel
 ---

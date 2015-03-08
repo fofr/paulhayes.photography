@@ -12,8 +12,12 @@ shutter: "1/1000"
 iso: 400
 focal: "155.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - mammals
+  - fox
+  - evening
+  - summer
 ---
 
 Taken at the British Wildlife Centre in Sussex. Occasionally this fox would stoop down and look up expectantly. From my vantage point, lying in the grass, I waited for the late summer sun to catch his face.

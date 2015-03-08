@@ -13,8 +13,14 @@ shutter: "34.9"
 iso: 100
 focal: "23.0mm"
 
-categories:
-  - photography
+tags:
+  - hong-kong
+  - china
+  - long-exposure
+  - city
+  - night
+  - asia
+  - travel
 ---
 
 Night time view on a clear evening from [Victoria Peak, Hong Kong](http://sam-and-paul.com/2014/09/hong-kong-china/).

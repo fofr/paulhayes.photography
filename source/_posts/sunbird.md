@@ -13,8 +13,13 @@ shutter: "1/1000"
 iso: 100
 focal: "200.0mm"
 
-categories:
-  - photography
+tags:
+  - wildlife
+  - birds
+  - sunbird
+  - borneo
+  - travel
+  - asia
 ---
 
 From our [trip to Kota Kinabalu, Borneo](http://www.sam-and-paul.com/2014/05/shangri-la-rasa-ria-borneo/). These pretty sunbirds flitted about the pink-flowered trees near our hotel. Almost as small as hummingbirds, they rarely stayed still long enough to focus.

@@ -14,8 +14,15 @@ shutter: "1/50"
 iso: 100
 focal: "19.0mm"
 
-categories:
-  - photography
+tags:
+  - china
+  - asia
+  - travel
+  - landscape
+  - jiuzhaigou
+  - reflection
+  - lake
+  - autumn
 ---
 
 From [our autumnal trip to Jiuzhaigou](http://sam-and-paul.com/2014/09/jiuzhaigou-huanglong-china/2/) in Sichuan province, China.
