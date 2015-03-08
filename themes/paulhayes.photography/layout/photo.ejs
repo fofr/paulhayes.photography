@@ -5,9 +5,10 @@
   photo.link_path = file + '-original.' + (photo.type ? photo.type : 'jpg');
 %>
 <main role="main">
-  <article class="container single-photo clearfix">
+  <article class="container single-photo clearfix" id="photo">
     <div class="photo-image-wrapper">
       <img src="<%= photo.image_path %>" class="photo-image" alt="<%= photo.title %>" />
+      <%- partial('_partial/post/nav', {post: photo}) %>
     </div>
     <div class="photo-detail">
       <header class="photo-header">
@@ -26,6 +27,4 @@
 
     </div>
   </article>
-
-  <%- partial('_partial/post/nav', {post: photo}) %>
 </main>

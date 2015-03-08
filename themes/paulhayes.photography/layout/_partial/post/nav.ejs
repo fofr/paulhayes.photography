@@ -8,13 +8,12 @@
   }
 %>
 <% if (post.prev || post.next) { %>
-  <nav class="next-prev-posts">
+  <nav>
     <% if (post.next) { %>
-      <a href="<%- config.root %><%- post.next.path %>" title="<%= post.next.title %>" rel="prev" data-key="left">&larr; Prev</a>
+      <a href="<%- config.root %><%- post.next.path %>#photo" rel="prev" data-key="left" class="nav-arrow nav-arrow-left" title="Use left and right keys to navigate">&larr;<span class="rm"> Previous photo</span></a>
     <% } %>
-    <% if (post.prev && post.next) { %> | <% } %>
     <% if (post.prev) { %>
-      <a href="<%- config.root %><%- post.prev.path %>" title="<%= post.prev.title %>" rel="next" data-key="right">Next &rarr;</a>
+      <a href="<%- config.root %><%- post.prev.path %>#photo" rel="next" data-key="right" class="nav-arrow nav-arrow-right" title="Use left and right keys to navigate"><span class="rm"> Next photo </span>&rarr;</a>
     <% } %>
   </nav>
 <% } %>
