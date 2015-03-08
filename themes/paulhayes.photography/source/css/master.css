@@ -319,6 +319,7 @@ a:active {
   position: relative;
   height: 0;
   padding-top: 100%;
+  background: #eee;
 }
 
 @media all and (max-width: 840px) {
@@ -381,6 +382,8 @@ a:active {
   margin: 0 -40px;
   min-height: 300px;
   position: relative;
+  background: #eee;
+  line-height: 0;
 }
 
 @media all and (max-width: 880px) {
