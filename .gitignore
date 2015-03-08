@@ -5,5 +5,5 @@ debug.log
 node_modules/
 public/
 deploy/
-source/photo/
 source/images/
+assets/
