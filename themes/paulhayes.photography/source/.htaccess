@@ -3,6 +3,7 @@ ErrorDocument 404 /404.html
 
 RewriteEngine On
 RewriteRule ^email/?$ /contact/ [R=301,NC,L]
+RewriteRule ^feed/ /atom.xml [R=301,NC,L]
 
 # Avoid www. in URL
 RewriteBase /
