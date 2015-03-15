@@ -4,6 +4,7 @@ date: 2014-09-20
 500px: https://500px.com/photo/85825149/red-panda-by-paul-hayes
 flickr: https://www.flickr.com/photos/prhayes/15458374146/
 instagram: https://instagram.com/p/tKSI1iNFKV/
+natgeo: http://yourshot.nationalgeographic.com/photos/5599309/
 
 exif: true
 camera: "Canon EOS 70D"
