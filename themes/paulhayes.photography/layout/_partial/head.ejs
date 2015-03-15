@@ -13,7 +13,9 @@ if (is_archive()){
 } else if (is_category()){
   title = page.category.charAt(0).toUpperCase() + page.category.slice(1)
 } else if (is_tag()){
-  title = 'Tag: ' + page.tag;
+  titleTag = page.tag.split('-').join(' ');
+
+  title = titleTag.charAt(0).toUpperCase() + titleTag.slice(1) + ' photos';
 }
 %>
 <title><% if (title){ %><%= title %> — <% } %><%= config.title %></title>

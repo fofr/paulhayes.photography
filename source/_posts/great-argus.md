@@ -14,7 +14,7 @@ focal: "200.0mm"
 
 tags:
   - wildlife
-  - birds
+  - bird
   - borneo
   - wild
   - danum-valley

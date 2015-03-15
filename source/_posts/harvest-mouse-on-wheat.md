@@ -15,7 +15,7 @@ focal: "200.0mm"
 
 tags:
   - wildlife
-  - mammals
+  - mammal
   - mouse
   - evening
   - summer

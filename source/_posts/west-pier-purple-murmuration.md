@@ -16,7 +16,7 @@ focal: "40.0mm"
 
 tags:
   - wildlife
-  - birds
+  - bird
   - brighton
   - west-pier
   - sussex

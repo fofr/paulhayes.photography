@@ -16,7 +16,7 @@ focal: "200.0mm"
 
 tags:
   - wildlife
-  - mammals
+  - mammal
   - polecat
   - evening
   - summer

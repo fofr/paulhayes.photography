@@ -16,7 +16,7 @@ focal: "17.0mm"
 
 tags:
   - wildlife
-  - birds
+  - bird
   - brighton
   - palace-pier
   - sussex

@@ -18,8 +18,9 @@ tags:
   - china
   - wildlife
   - red-panda
-  - mammals
+  - mammal
   - asia
+  - travel
 ---
 
 This lovely red panda lifted its head from its morning stroll just at the right time. Less than 10,000 are left in the wild.

@@ -14,7 +14,7 @@ focal: "70.0mm"
 
 tags:
   - wildlife
-  - mammals
+  - mammal
   - fox
   - evening
   - summer

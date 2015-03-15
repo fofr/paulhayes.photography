@@ -15,7 +15,7 @@ focal: "200.0mm"
 
 tags:
   - wildlife
-  - birds
+  - bird
   - sunbird
   - borneo
   - travel
