@@ -27,6 +27,6 @@ tags:
 
 Frozen sand dunes with frozen pools and bushy grass eyebrows. Against the backdrop of Scotland's stunning mountain range.
 
-Acclaimed landscape photographer Ian Cameron was our guide for a [two day private tour](http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/3/) in the North West Scottish highlands. Ian brought us here, to Elphin, in perfect snowy conditions.
+Acclaimed landscape photographer Ian Cameron was our guide for a [two day private tour](http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/3/) in the North West Scottish highlands.
 
 > Our spot for sunset would be back towards Ullapool then West again to the coast, beyond the kamikaze deer and black sheep to the sand dunes at Brae of Achnahaird. This panorama is “Scotland’s best”.
