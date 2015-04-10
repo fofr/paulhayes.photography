@@ -4,6 +4,7 @@ date: 2015-04-08
 flickr: https://www.flickr.com/photos/prhayes/17089555625/
 500px: https://500px.com/photo/104331355/tiger-by-paul-hayes
 instagram: https://instagram.com/p/1OjpPytFN4/
+natgeo: http://yourshot.nationalgeographic.com/photos/5768228/
 
 exif: true
 camera: "Canon EOS 70D"
