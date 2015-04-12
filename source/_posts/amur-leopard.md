@@ -1,6 +1,9 @@
 layout: photo
 title: Amur Leopard
 date: 2015-04-08
+flickr: https://www.flickr.com/photos/prhayes/16931733590/
+instagram: https://instagram.com/p/1VC_YrtFOr/
+500px: https://500px.com/photo/104676917/amur-leopard-by-paul-hayes
 
 exif: true
 camera: "Canon EOS 70D"
@@ -19,4 +22,4 @@ tags:
   - cat
 ---
 
-This is Xizi, a female Amur Leopard, a critically endangered species with as few as 50 left in the wild. Shot as part of a photography day at the wonderful [Big Cat Sanctuary](http://www.whf.org.uk/) in Kent.
+This is Xizi, a female Amur Leopard. [Amur Leopards](http://en.wikipedia.org/wiki/Amur_leopard) are a critically endangered species with as few as 50 left in the wild. Shot as part of a photography day at the wonderful [Big Cat Sanctuary](http://www.whf.org.uk/) in Kent.
