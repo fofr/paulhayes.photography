@@ -1,7 +1,9 @@
 layout: photo
 title: Snarl
 date: 2015-04-08
+flickr: https://www.flickr.com/photos/prhayes/16992735900/
 instagram: https://instagram.com/p/1kR4LAtFGg/
+500px: https://500px.com/photo/105413563/snarl-by-paul-hayes
 
 exif: true
 camera: "Canon EOS 70D"
