@@ -5,7 +5,7 @@ date: 2015-07-18
 instagram: https://instagram.com/p/5Si8RzNFAL/
 
 exif: true
-camera: "Canon EOS 500D"
+camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"
 aperture: "ƒ/5.6"
 shutter: "1/250"
