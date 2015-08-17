@@ -229,6 +229,10 @@ a:active {
   color: #000;
 }
 
+.masthead-logo {
+  margin-left: -4px;
+}
+
 .masthead-link,
 .masthead-link:hover,
 .masthead-link:focus {
@@ -237,7 +241,7 @@ a:active {
 
 .masthead-link:hover .masthead-title,
 .masthead-link:focus .masthead-title {
-  border-bottom: 3px solid;
+  border-bottom: 2px solid;
 }
 
 .title {
