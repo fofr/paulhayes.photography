@@ -148,11 +148,11 @@ blockquote em, blockquote cite, blockquote i {
  ========================================================================== */
 
 body {
-  font-size: 1.5em; /* 24px */
+  font-size: 1.25em; /* 20px */
   line-height: 1.3333333em;  /* 24px/32px default */
   color: #555;
   background: #fff;
-  font-family: "adobe-caslon-pro", "adobe-caslon-pro-1", "adobe-caslon-pro-2", Georgia, Times, "Times New Roman", serif;
+  font-family: "proxima-nova", "Helvetica Neue", Arial, sans-serif;
   text-rendering: optimizeLegibility;
 }
 
@@ -162,13 +162,14 @@ body {
   }
 }
 
-textarea, .sans {
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   color: #000;
+}
+
+h1, h2, h3, h4, h5, h6,
+.masthead {
+  font-family: "ff-tisa-sans-web-pro", "Helvetica Neue", Arial, sans-serif;
 }
 
 p, ul, ol, dl, table {
@@ -226,12 +227,6 @@ a:active {
 
 .masthead-title {
   color: #000;
-  letter-spacing: 0.05em;
-}
-
-.masthead-title-middot {
-  position: relative;
-  top: 3px;
 }
 
 .masthead-link,
@@ -344,6 +339,7 @@ a:active {
  ========================================================================== */
 
 .site-footer {
+  font-size: 0.8em;
   padding: 0 30px 1.66666667em; /* 32/24px */
   clear: both;
   margin: 2em 0 0;
@@ -357,6 +353,15 @@ a:active {
   margin: 0 auto;
   max-width: 780px;
   text-align: center;
+}
+
+.site-footer a {
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+  text-decoration: underline;
 }
 
 /* ==========================================================================
@@ -418,7 +423,7 @@ a:active {
 .nav-arrow {
   display: block;
   font-size: 30px;
-  line-height: 32px;
+  line-height: 23px;
   position: absolute;
   border-radius: 50px;
   width: 50px;
