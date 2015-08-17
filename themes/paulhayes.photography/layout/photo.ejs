@@ -20,10 +20,10 @@
       </div>
     </div>
     <div class="photo-meta">
-      <%- partial('_partial/photo/tags', {photo: photo}) %>
-      <%- partial('_partial/photo/exif', {photo: photo}) %>
       <%- partial('_partial/post/published', {post: photo}) %>
       <%- partial('_partial/photo/external', {photo: photo}) %>
+      <%- partial('_partial/photo/exif', {photo: photo}) %>
+      <%- partial('_partial/photo/tags', {photo: photo}) %>
     </div>
   </article>
 </main>
