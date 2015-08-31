@@ -221,13 +221,14 @@ a:active {
 
 .masthead {
   position: relative;
-  margin: 54px auto 48px;
+  margin: 78px auto 60px;
   font-size: 1.6em;
   line-height: 1em;
   width: 170px;
 }
 
 .masthead-title {
+  font-weight: bold;
   color: #000;
 }
 
