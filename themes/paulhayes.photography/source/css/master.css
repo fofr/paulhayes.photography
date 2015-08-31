@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h2, h3, h4, h5, h6,
 .masthead {
-  font-family: "ff-tisa-sans-web-pro", "Helvetica Neue", Arial, sans-serif;
+  font-family: "neuzeit-grotesk", "Helvetica Neue", Arial, sans-serif;
 }
 
 p, ul, ol, dl, table {
@@ -221,8 +221,10 @@ a:active {
 
 .masthead {
   position: relative;
-  margin: 42px auto 54px;
-  text-align: center;
+  margin: 54px auto 48px;
+  font-size: 1.6em;
+  line-height: 1em;
+  width: 170px;
 }
 
 .masthead-title {
@@ -230,18 +232,21 @@ a:active {
 }
 
 .masthead-logo {
-  margin-left: -4px;
+  margin-bottom: 5px;
 }
 
-.masthead-link,
-.masthead-link:hover,
-.masthead-link:focus {
+.masthead-link {
+  display: inline-block;
+  border-bottom: 3px solid #fff;
+  padding-bottom: 15px;
   text-decoration: none;
 }
 
-.masthead-link:hover .masthead-title,
-.masthead-link:focus .masthead-title {
-  border-bottom: 2px solid;
+.masthead-link:hover,
+.masthead-link:focus {
+  text-decoration: none;
+  padding-bottom: 15px;
+  border-bottom: 3px solid;
 }
 
 .title {
