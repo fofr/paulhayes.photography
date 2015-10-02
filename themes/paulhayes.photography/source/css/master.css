@@ -163,7 +163,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: normal;
   color: #000;
 }
 
@@ -238,16 +237,15 @@ a:active {
 
 .masthead-link {
   display: inline-block;
-  border-bottom: 3px solid #fff;
-  padding-bottom: 15px;
+  border-bottom: 4px solid #fff;
+  padding-bottom: 14px;
   text-decoration: none;
 }
 
 .masthead-link:hover,
 .masthead-link:focus {
   text-decoration: none;
-  padding-bottom: 15px;
-  border-bottom: 3px solid;
+  border-bottom: 4px solid;
 }
 
 .title {
