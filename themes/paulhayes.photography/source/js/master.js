@@ -5,7 +5,6 @@
 function bindKeyToLink() {
   var element = $(this);
   Mousetrap.bind(element.data('key'), function() {
-    element.focus();
     window.location.href = element.attr('href');
   });
 }

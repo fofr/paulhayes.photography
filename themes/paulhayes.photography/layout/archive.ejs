@@ -1,16 +1,18 @@
-<h2 class="title page-title">
-  <%
-    if (is_archive()){
-      if (is_month()){
-        var d = moment([page.year, page.month - 1, 1]);
-        title = d.format('MMMM YYYY');
-      } else if (is_year()){
-        title = page.year;
-      } else {
-        title = 'Archive';
+<div class="container">
+  <h1 class="main-content-title page-title">
+    <%
+      if (is_archive()){
+        if (is_month()){
+          var d = moment([page.year, page.month - 1, 1]);
+          title = d.format('MMMM YYYY');
+        } else if (is_year()){
+          title = page.year;
+        } else {
+          title = 'Archive';
+        }
       }
-    }
-  %>
-  <%= title %>
-</h2>
-<%- partial('_partial/archive') %>
+    %>
+    <%= title %>
+  </h1>
+  <%- partial('_partial/archive') %>
+</div>

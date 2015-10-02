@@ -162,7 +162,7 @@ body {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color: #000;
 }
 
@@ -220,10 +220,26 @@ a:active {
 
 .masthead {
   position: relative;
-  margin: 78px auto 60px;
+  margin-top: 40px;
   font-size: 1.6em;
   line-height: 1em;
-  width: 170px;
+}
+
+.masthead-home {
+  margin: 78px auto 60px;
+  width: 180px;
+}
+
+@media all and (max-width: 840px) {
+  .masthead {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .masthead-home {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .masthead-title {
@@ -231,21 +247,21 @@ a:active {
   color: #000;
 }
 
-.masthead-logo {
-  margin-bottom: 5px;
+.masthead-subtitle {
+  color: #aaa;
 }
 
 .masthead-link {
-  display: inline-block;
-  border-bottom: 4px solid #fff;
-  padding-bottom: 14px;
   text-decoration: none;
 }
 
 .masthead-link:hover,
 .masthead-link:focus {
-  text-decoration: none;
-  border-bottom: 4px solid;
+  color: #aaa;
+}
+
+.masthead-logo {
+  margin-bottom: 5px;
 }
 
 .title {
@@ -257,35 +273,17 @@ a:active {
   font-weight: bold;
 }
 
-.page-title {
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 12px 20px 0;
-  font-size: 1.2em;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
 .main-content-title {
-  color: #333;
+  color: #000;
   font-size: 2.6666666667em; /* 64px/24px */
   line-height: 1.25; /* 80/64px */
-  margin: 1.375em auto 0.84375em; /* 88/64px,  88/54px */
-  text-align: center;
-}
-
-.photo-title {
-  margin: 42px 0 24px;
-  text-align: left;
+  margin: 1.375em 0 0.84375em -40px; /* 88/64px,  88/54px */
   font-size:  1.75em;
 }
 
-@media all and (max-width: 620px) {
-  .main-content-title {
-    font-size: 2em;
-    padding: 0;
-  }
+.photo-title,
+.page-title {
+  margin: 0 0 24px;
 }
 
 /* ==========================================================================
@@ -293,8 +291,7 @@ a:active {
  ========================================================================== */
 
 .listing {
-  width: 790px;
-  margin: 0 auto;
+  margin: 0 -40px;
 }
 
 .listing-item {
@@ -348,19 +345,13 @@ a:active {
 
 .site-footer {
   font-size: 0.8em;
-  padding: 0 30px 1.66666667em; /* 32/24px */
+  padding: 60px 0 1.66666667em; /* 32/24px */
   clear: both;
   margin: 2em 0 0;
 }
 
 .site-footer p {
   margin-bottom: 5px;
-}
-
-.site-footer-content-wrapper {
-  margin: 0 auto;
-  max-width: 780px;
-  text-align: center;
 }
 
 .site-footer a {
@@ -372,27 +363,18 @@ a:active {
   text-decoration: underline;
 }
 
-/* ==========================================================================
- Pages
- ========================================================================== */
-
-.article-content {
-  margin: 42px 0;
-  padding: 0 20px;
+.footer-logo {
+  opacity: 0.6;
 }
 
 /* ==========================================================================
  Photos
  ========================================================================== */
 
-.single-photo {
-  margin-top: -42px;
-  padding-top: 42px;
-  padding-bottom: 24px;
-}
-
 .photo-image {
   max-width: 100%;
+  max-height: 860px;
+  text-align: center;
 }
 
 .photo-image-wrapper {
@@ -401,6 +383,11 @@ a:active {
   background: #eee;
   position: relative;
   line-height: 0;
+  text-align: center;
+}
+
+.article-tag-list {
+  margin-bottom: 0;
 }
 
 .article-tag-list-item {
@@ -408,11 +395,21 @@ a:active {
   margin-right: 1em;
 }
 
+@media all and (max-width: 540px) {
+  .article-tag-list-item {
+    display: block;
+  }
+}
+
 @media all and (max-width: 880px) {
   .photo-image-wrapper {
     margin-left: -30px;
     margin-right: -30px;
   }
+}
+
+.photo-content {
+  margin-top: 42px;
 }
 
 .photo-meta {
