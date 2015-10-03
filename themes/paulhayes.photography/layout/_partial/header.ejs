@@ -1,10 +1,12 @@
-<header class="masthead container">
-  <% if (!is_home()) { %>
-  <a href="/" class="masthead-link">
-  <% } %>
-    <img class="masthead-logo" src="/images/paul-logo-bold.png" width="170" height="73" alt="Paul Hayes Photography logo, 'Paul' written in the style of a landscape"/><br />
+<% if (is_home()) { %>
+  <header class="masthead masthead-home container">
+    <img class="masthead-logo" src="/images/paul-logo-bold.png" width="180" height="73" alt="Paul Hayes Photography logo, 'Paul' written in the style of a landscape"/><br />
     <span class="masthead-title">Paul Hayes<br />Photography</span>
-  <% if (!is_home()) { %>
-  </a>
-  <% } %>
-</header>
+  </header>
+<% } else { %>
+  <header class="masthead container">
+    <a href="/" class="masthead-link">
+      <span class="masthead-subtitle">Paul Hayes Photography</span>
+    </a>
+  </header>
+<% } %>
