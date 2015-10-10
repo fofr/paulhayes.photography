@@ -220,14 +220,16 @@ a:active {
 
 .masthead {
   position: relative;
-  margin-top: 40px;
+  margin-top: 80px;
   font-size: 1.6em;
   line-height: 1em;
 }
 
 .masthead-home {
-  margin: 78px auto 60px;
-  width: 180px;
+  overflow: hidden;
+  width: 485px;
+  margin-top: 100px;
+  margin-bottom: 60px;
 }
 
 @media all and (max-width: 840px) {
@@ -261,7 +263,7 @@ a:active {
 }
 
 .masthead-logo {
-  margin-bottom: 5px;
+  float: right;
 }
 
 .title {
@@ -365,6 +367,8 @@ a:active {
 
 .footer-logo {
   opacity: 0.6;
+  margin-left: -34px;
+  margin-bottom: -22px;
 }
 
 /* ==========================================================================
