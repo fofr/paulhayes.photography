@@ -244,6 +244,14 @@ a:active {
   }
 }
 
+@media all and (max-width: 540px) {
+  .masthead-home {
+    overflow: visible;
+    text-align: center;
+    width: auto;
+  }
+}
+
 .masthead-title {
   font-weight: bold;
   color: #000;
@@ -264,6 +272,12 @@ a:active {
 
 .masthead-logo {
   float: right;
+}
+
+@media all and (max-width: 540px) {
+  .masthead-logo {
+    float: none;
+  }
 }
 
 .title {
@@ -305,6 +319,12 @@ a:active {
   box-sizing: border-box;
 }
 
+@media all and (max-width: 540px) {
+  .listing-item {
+    width: 33.33333%;
+  }
+}
+
 .listing-image {
   position: absolute;
   top: 0;
@@ -327,15 +347,11 @@ a:active {
 @media all and (max-width: 840px) {
   .listing {
     width: auto;
-    margin: auto 30px;
+    margin: auto -5px;
   }
 }
 
 @media all and (max-width: 540px) {
-  .listing {
-    margin: auto 20px;
-  }
-
   .listing-item {
     padding: 1%;
   }
@@ -369,6 +385,12 @@ a:active {
   opacity: 0.6;
   margin-left: -34px;
   margin-bottom: -22px;
+}
+
+@media all and (max-width: 840px) {
+  .footer-logo {
+    visibility: hidden;
+  }
 }
 
 /* ==========================================================================
