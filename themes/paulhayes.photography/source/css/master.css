@@ -249,6 +249,8 @@ a:active {
     overflow: visible;
     text-align: center;
     width: auto;
+    margin-left: 30px;
+    margin-right: 30px;
   }
 }
 
@@ -272,6 +274,7 @@ a:active {
 
 .masthead-logo {
   float: right;
+  max-width: 100%;
 }
 
 @media all and (max-width: 540px) {
