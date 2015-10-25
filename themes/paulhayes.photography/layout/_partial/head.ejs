@@ -4,22 +4,21 @@
 var title = page.title;
 
 if (is_archive()){
-  title = 'Archives';
+  title = 'All photos';
   if (is_month()){
-    title += ': ' + page.year + '/' + page.month;
+    title = 'Archives: ' + page.year + '/' + page.month;
   } else if (is_year()){
-    title += ': ' + page.year;
+    title = 'Archives: ' + page.year;
   }
 } else if (is_category()){
   title = page.category.charAt(0).toUpperCase() + page.category.slice(1)
 } else if (is_tag()){
   titleTag = page.tag.split('-').join(' ');
-
   title = titleTag.charAt(0).toUpperCase() + titleTag.slice(1) + ' photos';
 }
 %>
 <title><% if (title){ %><%= title %> — <% } %><%= config.title %></title>
-<meta name="description" content="Paul Hayes – Brighton and Sussex Landscape Photographer" />
+<meta name="description" content="Paul Hayes – Brighton and Sussex Nature Photographer" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <script>(function(d){d.className=d.className.replace(/^no-js\b/,'js');}(document.documentElement));</script>
 <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
