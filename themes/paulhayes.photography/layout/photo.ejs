@@ -10,7 +10,7 @@
         <%= photo.title %>
       </h1>
     </header>
-    <div class="photo-image-wrapper">
+    <div class="photo-image-wrapper photo-beyond-margins">
       <img src="<%= photo.file %>" class="photo-image" alt="<%= photo.title %>" />
       <%- partial('_partial/post/nav', {post: photo}) %>
     </div>

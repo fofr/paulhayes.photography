@@ -1,7 +1,4 @@
-<%
-  type = typeof type === "undefined" ? null : type;
-%>
-<section class="listing <% if (type == 'photo' || page.category == 'photography') { %>listing-images<% } %> clearfix">
+<section class="listing listing-images clearfix">
   <ol>
     <% page.posts.each(function(post){ %>
       <%- partial('archive-post', {post: post}) %>
