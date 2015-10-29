@@ -1,6 +1,8 @@
 layout: photo
 title: Illuminating The Milky Way
 date: 2015-09-16
+500px: https://500px.com/photo/126850703/illuminating-the-milky-way-by-paul-hayes
+natgeo: http://yourshot.nationalgeographic.com/photos/7099973/
 
 exif: true
 camera: "Canon EOS 70D"
@@ -20,4 +22,6 @@ tags:
   - stars
 ---
 
-Without the sea, this classic beacon shines upwards, and outwards – to the stars and countless other worlds. Consider how many beings might live within those few small pixels that are Andromeda, 2.5 million light years away.
+This lighthouse in Scotland appears to illuminate the night sky, revealing our galaxy, The Milky Way, and in the distance, the faint glow of Andromeda too.
+
+Shining upwards, and outwards – to the stars and countless other worlds. Consider how many beings might live within those few small pixels that are Andromeda, 2.5 million light years away.
