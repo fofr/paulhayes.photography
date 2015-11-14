@@ -22,4 +22,4 @@ tags:
   - summer
 ---
 
-This polecat was dancing about, very rarely stopping for anything. For a split second he raised his head in just the right position, the warm midsummer light catching his face amongst the flowers.
+This polecat, at the British Wildlife Centre, was dancing about, very rarely stopping for anything. For a split second it raised its head in just the right position, the warm midsummer light catching its face through the yellow flowers.

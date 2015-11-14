@@ -21,4 +21,4 @@ tags:
   - summer
 ---
 
-In the midsummer evening, this friendly harvest mouse paused to have a look around before climbing to the top of the wheat.
+In the midsummer evening at the British Wildlife Centre, this friendly harvest mouse paused to have a look around before climbing to the top of the wheat.

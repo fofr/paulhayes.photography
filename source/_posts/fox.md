@@ -20,4 +20,4 @@ tags:
   - summer
 ---
 
-The evening light was perfect — we couldn’t have asked for anything better. Lying down in the grass, I angled the camera upwards to capture the warm orange fur of a fox with a glowing outline.
+The evening light at the British Wildlife Centre was perfect, I couldn’t have asked for anything better. Lying down in the grass, I angled the camera upwards to capture the warm orange fur of the fox which formed a glowing halo.

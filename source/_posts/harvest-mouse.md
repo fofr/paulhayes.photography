@@ -22,4 +22,4 @@ tags:
   - summer
 ---
 
-This harvest mouse kindly climbed to the top of the wheat to be photographed in the midsummer evening. He balanced precariously on the edge, his tail wrapped around for safety whilst sniffing out something delicious.
+This harvest mouse, at the British Wildlife Centre, kindly climbed to the top of the wheat to be photographed in the midsummer evening. He balanced precariously on the edge, his tail wrapped around for safety whilst sniffing out something delicious.

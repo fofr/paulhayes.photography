@@ -22,6 +22,4 @@ tags:
   - cat
 ---
 
-A female sumatran tiger approaches through the bamboo.
-
-This is Puna, and was shot as part of a photography day at the wonderful Big Cat Sanctuary in Kent
+A female sumatran tiger approaches through the bamboo. This is Puna, one of the many wonderful cats at the Big Cat Sanctuary (also known as The Wildlife Heritage Foundation) in Kent.

@@ -23,4 +23,4 @@ tags:
   - travel
 ---
 
-This lovely red panda lifted its head from its morning stroll just at the right time. Less than 10,000 are left in the wild.
+This lovely red panda lifted its head from its morning stroll just at the right time. Less than 10,000 are left in the wild. This is one of many red pandas at the Chengdu Panda Research centre.
