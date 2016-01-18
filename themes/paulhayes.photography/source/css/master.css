@@ -310,13 +310,14 @@ a:active {
  ========================================================================== */
 
 .home-pullout {
-  margin-bottom: 60px;
-  background: #eee;
-  padding: 40px;
+  padding: 36px;
+  margin-bottom: 90px;
+  border: 6px solid #ddd;
+  color: #000;
 }
 
 .home-pullout-left {
-  width: 50%;
+  width: 60%;
   float: left;
   padding-right: 30px;
   -webkit-box-sizing: border-box;
@@ -325,9 +326,8 @@ a:active {
 }
 
 .home-pullout-right {
-  width: 50%;
+  width: 40%;
   float: right;
-  margin-bottom: 30px;
 }
 
 @media all and (max-width: 640px) {
@@ -335,12 +335,20 @@ a:active {
   .home-pullout-right {
     float: none;
     width: auto;
+    padding: 0;
+  }
+
+  .home-pullout-left {
+    margin-bottom: 36px;
+  }
+
+  .home-pullout-left img {
+    width: 100%;
   }
 }
 
-.home-pullout-signature {
-  margin-top: 40px;
-  opacity: 0.6;
+.home-gallery-title {
+  padding-bottom: 20px;
 }
 
 /* Galleries

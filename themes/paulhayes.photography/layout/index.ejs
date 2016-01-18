@@ -1,30 +1,7 @@
-<%
-  photos = getPhotosBySlug(['tiger']);
-  mostRecent = site.posts.sort('date', -1).toArray();
-  landscapes = getPhotosBySlug([
-    'brighton-pavilion-twilight',
-    'thirlmere',
-    'loch-assynt',
-    'elphin',
-    'loch-skeen',
-    'kielder-forest',
-    'west-pier-sunset',
-    'pitstone-windmill'
-  ]);
-  wildlife = getPhotosBySlug([
-    'tiger',
-    'polecat',
-    'harvest-mouse-on-wheat',
-    'fox',
-    'tawny-owl',
-    'sunbird',
-    'red-panda',
-    'great-tit'
-  ]);
-%>
+<% photos = getPhotosBySlug(['thirlmere']); %>
 <main role="main">
   <div class="clearfix container home-pullout">
-    <div class="home-pullout-right">
+    <div class="home-pullout-left">
       <% for (var i = 0, l = photos.length; i < l; i++) {
         photo = photos[i];
         photo.filename = photo.filename || photo.slug;
@@ -37,48 +14,18 @@
         </div>
       <% } %>
     </div>
-    <div class="home-pullout-left">
-      <p>Paul Hayes is a nature photographer based in Sussex, seeking to capture remarkable landscapes and wildlife.</p>
+    <div class="home-pullout-right">
+      <p><strong>Paul Hayes is a landscape and wildlife photographer in Sussex.</strong></p>
 
-      <p>You can find him on <a href="https://twitter.com/phayesphoto">Twitter</a>, <a href="https://www.flickr.com/photos/prhayes">Flickr</a>, <a href="https://500px.com/fofr">500px</a> and <a href="https://instagram.com/fofr/">Instagram</a>.</p>
+      <p>Prints and licenses available on request, <a href="/contact">get&nbsp;in&nbsp;touch</a>.</p>
 
-      <p>Photos are available as prints and can be commercially licensed, please <a href="/contact">get&nbsp;in&nbsp;touch</a>.</p>
-
-      <img src="/images/paul-logo-descender-regular-264.png" width="132" alt="Paul Hayes Photography logo, 'Paul' written in the style of a landscape" class="home-pullout-signature" />
+      <p>Follow Paul Hayes on <a href="https://twitter.com/phayesphoto">Twitter</a>, <a href="https://www.flickr.com/photos/prhayes">Flickr</a>, <a href="https://500px.com/fofr">500px</a> and <a href="https://instagram.com/fofr/">Instagram</a>.</p>
     </div>
   </div>
 
-  <div class="gallery container">
-    <h2 class="main-content-title page-title">Gallery</h2>
+  <div class="container">
+    <h2 class="home-gallery-title main-content-title page-title text-center">Most recent</h2>
 
-    <h3 class="gallery-title">Most recent</h3>
-    <a href="/archive">All photos</a>
-    <section class="listing listing-images clearfix">
-      <ol>
-        <% for (var i = 0, l = mostRecent.length; i < 4; i++) { %>
-          <%- partial('_partial/archive-post', {post: mostRecent[i]}) %>
-        <% } %>
-      </ol>
-    </section>
-
-    <h3 class="gallery-title">Landscape</h3>
-    <a href="/tag/landscape">All landscapes</a>
-    <section class="listing listing-images clearfix">
-      <ol>
-        <% for (var i = 0, l = landscapes.length; i < l; i++) { %>
-          <%- partial('_partial/archive-post', {post: landscapes[i]}) %>
-        <% } %>
-      </ol>
-    </section>
-
-    <h3 class="gallery-title">Wildlife</h3>
-    <a href="/tag/wildlife">All wildlife</a>
-    <section class="listing listing-images clearfix">
-      <ol>
-        <% for (var i = 0, l = wildlife.length; i < l; i++) { %>
-          <%- partial('_partial/archive-post', {post: wildlife[i]}) %>
-        <% } %>
-      </ol>
-    </section>
+    <%- partial('_partial/archive') %>
   </div>
 </main>
