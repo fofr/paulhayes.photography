@@ -1,7 +1,6 @@
 layout: photo
 title: Seven Sisters
 date: 2016-01-16
-instagram: https://www.instagram.com/p/BApaQw2tFIf/
 
 exif: true
 camera: "Canon EOS 500D"
