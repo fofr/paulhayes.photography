@@ -1,15 +1,7 @@
 hexo.extend.generator.register(hexo_generator_json_content);
 
 function hexo_generator_json_content(site) {
-    var stripe = function (str) {
-      return str.replace(/(<([^>]+)>)/ig, '');
-    },
-
-    minify = function (str) {
-      return str.trim().replace(/\n/g, ' ').replace(/\s+/g, ' ');
-    },
-
-    posts = {
+  var posts = {
       raw: false,
       content: false,
       title: true,
@@ -41,8 +33,6 @@ function hexo_generator_json_content(site) {
       path: posts.path ? post.path : null,
       link: posts.link ? post.link : null,
       permalink: posts.permalink ? post.permalink : null,
-      excerpt: posts.excerpt ? stripe(post.excerpt) : null,
-      text: posts.text ? minify(stripe(post.content)) : null,
       raw: posts.raw ? post.raw : null,
       content: posts.content ? post.content : null,
       categories: posts.categories ? post.categories.map(function (cat) {
