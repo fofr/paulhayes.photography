@@ -90,25 +90,3 @@ feed:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
-
-# JSON content
-jsonContent:
-  meta: false
-  pages: false
-  posts:
-    title: true
-    iso: true
-    slug: true
-    date: true
-    updated: true
-    comments: true
-    path: true
-    link: true
-    permalink: true
-    excerpt: true
-    keywords: true # it needs root keywords option language
-    text: true
-    raw: false
-    content: false
-    categories: true
-    tags: true
