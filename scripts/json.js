@@ -20,7 +20,7 @@ function hexo_generator_json_content(site) {
   json.posts = content;
 
   return {
-    path: 'content.json',
+    path: 'api/all.json',
     data: JSON.stringify(json)
   };
 }
