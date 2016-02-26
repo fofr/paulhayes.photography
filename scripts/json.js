@@ -15,12 +15,29 @@ function hexo_generator_json_content(site) {
     };
   });
 
+  site.tags.each(function(tag) {
+    tagPosts = tag.posts.sort('-date').map(function(post) {
+      return postObject(post);
+    });
+
+    routes.push({
+      path: tag.path.replace(/\/$/, "") + '.json',
+      data: JSON.stringify(indexObject(tagPosts))
+    });
+  });
+
   routes.push({
-    path: 'api/all.json',
-    data: JSON.stringify({posts: all})
+    path: 'all.json',
+    data: JSON.stringify(indexObject(all))
   });
 
   return routes;
+
+  function indexObject(posts) {
+    return {
+      posts: posts
+    }
+  }
 
   function postObject(post) {
     return {
@@ -28,9 +45,19 @@ function hexo_generator_json_content(site) {
       date: post.date,
       updated: post.updated,
       path: '/' + post.path,
+      api_path: '/' + post.path.replace(/\/$/, "") + '.json',
       permalink: post.permalink,
       content: post.content,
-      file: hexo.config.image_dir + '1720/' + post.slug + '.jpg'
+      photo: hexo.config.image_dir + '1720/' + post.slug + '.jpg',
+      thumbnail: hexo.config.image_dir + 'square/380/' + post.slug + '.jpg',
+      tags: post.tags.map(function (tag) {
+        return {
+          name: tag.name,
+          path: '/' + tag.path,
+          api_path: '/' + tag.path.replace(/\/$/, "") + '.json',
+          permalink: tag.permalink
+        };
+      })
     }
   }
 }
