@@ -1,6 +1,6 @@
-hexo.extend.generator.register(hexo_generator_json_content);
+hexo.extend.generator.register(json);
 
-function hexo_generator_json_content(site) {
+function json(site) {
   var routes = [],
       all;
 
