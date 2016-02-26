@@ -10,7 +10,7 @@ function json(site) {
 
   routes = site.posts.sort('-date').map(function(post) {
     return {
-      path: post.path.replace(/\/$/, "") + '.json',
+      path: appendJsonExtension(post.path),
       data: JSON.stringify(postObject(post))
     };
   });
@@ -21,7 +21,7 @@ function json(site) {
     });
 
     routes.push({
-      path: tag.path.replace(/\/$/, "") + '.json',
+      path: appendJsonExtension(tag.path),
       data: JSON.stringify(indexObject(tagPosts))
     });
   });
@@ -45,7 +45,7 @@ function json(site) {
       date: post.date,
       updated: post.updated,
       path: '/' + post.path,
-      api_path: '/' + post.path.replace(/\/$/, "") + '.json',
+      api_path: apiPath(post.path),
       permalink: post.permalink,
       content: post.content,
       photo: hexo.config.image_dir + '1720/' + post.slug + '.jpg',
@@ -54,10 +54,18 @@ function json(site) {
         return {
           name: tag.name,
           path: '/' + tag.path,
-          api_path: '/' + tag.path.replace(/\/$/, "") + '.json',
+          api_path: apiPath(tag.path),
           permalink: tag.permalink
         };
       })
     }
+  }
+
+  function apiPath(path) {
+    return '/' + appendJsonExtension(path);
+  }
+
+  function appendJsonExtension(path) {
+    return path.replace(/\/$/, "") + '.json';
   }
 }
