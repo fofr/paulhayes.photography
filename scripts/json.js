@@ -27,7 +27,7 @@ function hexo_generator_json_content(site) {
   });
 
   routes.push({
-    path: 'all.json',
+    path: 'index.json',
     data: JSON.stringify(indexObject(all))
   });
 
