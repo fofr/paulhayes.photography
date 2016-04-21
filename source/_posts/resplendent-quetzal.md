@@ -2,6 +2,7 @@ layout: photo
 title: Resplendent Quetzal
 date: 2016-03-12
 flickr: https://www.flickr.com/photos/prhayes/26259743495/
+500px: https://500px.com/photo/150370709/resplendent-quetzal-by-paul-hayes
 
 exif: true
 camera: "Canon EOS 70D"
