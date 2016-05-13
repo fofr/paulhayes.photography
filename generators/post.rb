@@ -6,7 +6,7 @@ require 'exifr'
 path_to_image = ARGV.first
 
 unless path_to_image
-  puts 'Usage: ruby scripts/generate-post.rb path/to/image.jpg'
+  puts 'Usage: ruby generators/post.rb path/to/image.jpg'
   exit
 end
 
