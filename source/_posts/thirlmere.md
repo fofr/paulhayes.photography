@@ -4,7 +4,7 @@ date: 2015-09-22
 
 exif: true
 camera: "Canon EOS 70D"
-lens: "Canon EF 17-40mm f/4L"
+lens: "Canon EF 17-40mm f/4L USM"
 aperture: "ƒ/18"
 shutter: "1/40"
 iso: 100

@@ -4,7 +4,7 @@ date: 2016-01-16
 
 exif: true
 camera: "Canon EOS 500D"
-lens: "Canon EF17-40mm f/4L USM"
+lens: "Canon EF 17-40mm f/4L USM"
 aperture: "ƒ/18"
 shutter: "0.5"
 iso: 100

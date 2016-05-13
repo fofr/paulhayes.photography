@@ -6,7 +6,7 @@ instagram: https://instagram.com/p/8eIXgXtFBW/
 
 exif: true
 camera: "Canon EOS 70D"
-lens: "Canon EF 17-40mm f/4L"
+lens: "Canon EF 17-40mm f/4L USM"
 aperture: "ƒ/13"
 shutter: "0.6"
 iso: 100

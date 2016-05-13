@@ -40,7 +40,7 @@ def lens(exif)
   elsif focal_length == 50
     lens = "Canon EF 50mm f/1.4 USM"
   elsif focal_length > 16.9
-    lens = "Canon EF 17-40mm f/4L"
+    lens = "Canon EF 17-40mm f/4L USM"
   else
     lens = "Canon EF-S 10-22mm f/3.5-4.5 USM"
   end

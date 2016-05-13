@@ -8,7 +8,7 @@ natgeo: http://yourshot.nationalgeographic.com/photos/5501327/
 
 exif: true
 camera: "Canon EOS 70D"
-lens: "Canon EF17-40mm f/4L USM"
+lens: "Canon EF 17-40mm f/4L USM"
 aperture: "ƒ/16.0"
 shutter: "3.2"
 iso: 100
