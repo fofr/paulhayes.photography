@@ -7,7 +7,7 @@ instagram: http://instagram.com/p/qpMA5hNFAo
 
 exif: true
 camera: "Canon EOS 70D"
-lens: "Canon EF50mm f/1.4 USM"
+lens: "Canon EF 50mm f/1.4 USM"
 aperture: "ƒ/18.0"
 shutter: "30"
 iso: 100
