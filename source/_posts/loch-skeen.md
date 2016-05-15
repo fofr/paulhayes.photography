@@ -4,6 +4,7 @@ date: 2015-09-18
 flickr: https://www.flickr.com/photos/prhayes/21912780365/
 instagram: https://instagram.com/p/8Ot7AWNFIG/
 500px: https://500px.com/photo/123780057/loch-skeen-by-paul-hayes
+travel: http://sam-and-paul.com/2015/09/southern-scotland/5/
 
 exif: true
 camera: "Canon EOS 70D"

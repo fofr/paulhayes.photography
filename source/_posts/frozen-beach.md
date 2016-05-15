@@ -4,6 +4,7 @@ date: 2015-01-19 17:41
 flickr: https://www.flickr.com/photos/prhayes/16174486098/
 500px: https://500px.com/photo/96785157/frozen-beach-by-paul-hayes
 instagram: https://instagram.com/p/yHDEPotFEB/
+travel: http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/
 
 exif: true
 camera: "Canon EOS 70D"

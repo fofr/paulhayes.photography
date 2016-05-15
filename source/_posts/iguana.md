@@ -3,6 +3,7 @@ title: Iguana
 date: 2016-03-15 18:17
 flickr: https://www.flickr.com/photos/prhayes/25654839964/
 instagram: https://www.instagram.com/p/BDLQxoGtFOY/
+travel: http://sam-and-paul.com/2016/03/manuel-antonio-costa-rica/2/
 
 exif: true
 camera: "Canon EOS 70D"

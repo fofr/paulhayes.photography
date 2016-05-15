@@ -4,6 +4,7 @@ date: 2014-03-24 06:59
 flickr: https://www.flickr.com/photos/prhayes/14253143355/
 instagram: http://instagram.com/p/oWwRphNFPp/
 500px: http://500px.com/photo/75799133/sunbird-by-paul-hayes
+travel: http://www.sam-and-paul.com/2014/05/shangri-la-rasa-ria-borneo/
 
 exif: true
 camera: "Canon EOS 500D"

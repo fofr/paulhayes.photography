@@ -5,6 +5,7 @@ date: 2014-09-20 02:37
 flickr: https://www.flickr.com/photos/prhayes/15458374146/
 instagram: https://instagram.com/p/tKSI1iNFKV/
 natgeo: http://yourshot.nationalgeographic.com/photos/5599309/
+travel: http://sam-and-paul.com/2014/09/chengdu-china/
 
 exif: true
 camera: "Canon EOS 70D"

@@ -3,6 +3,8 @@ title: Resplendent Quetzal
 date: 2016-03-12 20:28
 flickr: https://www.flickr.com/photos/prhayes/26259743495/
 500px: https://500px.com/photo/150370709/resplendent-quetzal-by-paul-hayes
+twitter: https://twitter.com/phayesphoto/status/717464063127773184
+travel: http://sam-and-paul.com/2016/03/monteverde-costa-rica/2/
 
 exif: true
 camera: "Canon EOS 70D"

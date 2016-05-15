@@ -4,6 +4,7 @@ date: 2015-01-19 09:57
 500px: https://500px.com/photo/101836761/sunrise-over-loch-assynt-by-paul-hayes
 flickr: https://www.flickr.com/photos/prhayes/16488624941/
 instagram: https://instagram.com/p/yNGIXFNFPH/
+travel: http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/
 
 exif: true
 camera: "Canon EOS 70D"

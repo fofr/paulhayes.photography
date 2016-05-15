@@ -4,6 +4,7 @@ date: 2014-09-27 11:34
 flickr: https://www.flickr.com/photos/prhayes/15041298994/
 500px: https://500px.com/photo/87437863/hong-kong-at-night-by-paul-hayes
 instagram: http://instagram.com/p/tcsmigtFD_/
+travel: http://sam-and-paul.com/2014/09/hong-kong-china/2/
 
 exif: true
 camera: "Canon EOS 70D"

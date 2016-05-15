@@ -5,6 +5,7 @@ flickr: https://www.flickr.com/photos/prhayes/26532495701/
 500px: https://500px.com/photo/150226473/bluebells-by-paul-hayes
 instagram: https://www.instagram.com/p/BEcCiCKtFOd/
 natgeo: http://yourshot.nationalgeographic.com/photos/8162856/
+twitter: https://twitter.com/phayesphoto/status/723935177915940864
 
 exif: true
 camera: "Canon EOS 70D"

@@ -5,6 +5,7 @@ flickr: https://www.flickr.com/photos/prhayes/16336344575/
 500px: https://500px.com/photo/96613493/elphin-by-paul-hayes
 natgeo: http://yourshot.nationalgeographic.com/photos/5252283/
 instagram: https://instagram.com/p/yFv1eitFIf/
+travel: http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/
 
 exif: true
 camera: "Canon EOS 70D"

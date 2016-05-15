@@ -4,6 +4,7 @@ date: 2015-10-29 07:36
 flickr: https://www.flickr.com/photos/prhayes/27035656145/
 instagram: https://www.instagram.com/p/9asUpMtFLe/
 500px: https://500px.com/photo/153941627/brighton-beach-at-low-tide-by-paul-hayes
+twitter: https://twitter.com/phayesphoto/status/659645873463427072
 
 exif: true
 camera: "Canon EOS 70D"

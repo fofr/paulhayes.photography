@@ -1,6 +1,8 @@
 <%
  links = []
+ if (photo.travel) { links.push({ name: "Sam and Paul blog post",           url: photo.travel }); }
  if (photo.natgeo)    { links.push({ name: "National Geographic", url: photo.natgeo }); }
+ if (photo.twitter)   { links.push({ name: "@phayesphoto tweet",  url: photo.twitter }); }
  if (photo.flickr)    { links.push({ name: "Flickr",              url: photo.flickr }); }
  if (photo['500px'])  { links.push({ name: "500px",               url: photo['500px'] }); }
  if (photo.instagram) { links.push({ name: "Instagram",           url: photo.instagram }); }

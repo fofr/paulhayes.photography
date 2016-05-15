@@ -5,6 +5,7 @@ flickr: https://www.flickr.com/photos/prhayes/16163098700/
 500px: https://500px.com/photo/96613495/frozen-achnahaird-by-paul-hayes
 natgeo: http://yourshot.nationalgeographic.com/photos/5262996/
 instagram: https://instagram.com/p/yHAhEGNFCM/
+travel: http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/
 
 exif: true
 camera: "Canon EOS 70D"
