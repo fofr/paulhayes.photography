@@ -1,11 +1,11 @@
 layout: photo
 title: Eerie Pier
-date: 2015-10-31
+date: 2015-10-31 07:33
 
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/15.0"
+aperture: "ƒ/14"
 shutter: "20"
 iso: 100
 focal: "17.0mm"

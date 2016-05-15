@@ -1,6 +1,6 @@
 layout: photo
 title: Loch Assynt
-date: 2015-01-19
+date: 2015-01-19 10:48
 flickr: https://www.flickr.com/photos/prhayes/16153716870/
 500px: https://500px.com/photo/96613491/ruins-on-loch-assynt-by-paul-hayes
 natgeo: http://yourshot.nationalgeographic.com/photos/5258264/
@@ -9,7 +9,7 @@ instagram: https://instagram.com/p/yFxFmQNFKV/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/13.0"
+aperture: "ƒ/13"
 shutter: "0.8"
 iso: 100
 focal: "17.0mm"

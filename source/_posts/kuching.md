@@ -1,6 +1,6 @@
 layout: photo
 title: "Kuching waterfront"
-date: 2014-03-23 10:52:39
+date: 2014-03-21 11:48
 flickr: https://www.flickr.com/photos/prhayes/14273035913/
 instagram: http://instagram.com/p/l3TKsNNFFt/
 500px: http://500px.com/photo/75799129/kuching-waterfront-by-paul-hayes
@@ -8,7 +8,7 @@ instagram: http://instagram.com/p/l3TKsNNFFt/
 exif: true
 camera: "Canon EOS 500D"
 lens: "Canon EF-S 17-55mm f/2.8 IS USM"
-aperture: "ƒ/9.0"
+aperture: "ƒ/9"
 shutter: "20"
 iso: 100
 focal: "23.0mm"

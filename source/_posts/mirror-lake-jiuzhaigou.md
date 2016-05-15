@@ -1,6 +1,6 @@
 layout: photo
 title: "Mirror lake at Jiuzhaigou"
-date: 2014-09-18
+date: 2014-09-18 06:58
 flickr: https://www.flickr.com/photos/prhayes/15303637430/
 500px: https://500px.com/photo/85919363/mirror-lake-at-jiuzhaigou-by-paul-hayes
 instagram: http://instagram.com/p/t8diXvNFGh/
@@ -9,7 +9,7 @@ natgeo: http://yourshot.nationalgeographic.com/photos/4628595/
 exif: true
 camera: "Canon EOS 500D"
 lens: "Canon EF-S 10-22mm f/3.5-4.5 USM"
-aperture: "ƒ/8.0"
+aperture: "ƒ/8"
 shutter: "1/50"
 iso: 100
 focal: "19.0mm"

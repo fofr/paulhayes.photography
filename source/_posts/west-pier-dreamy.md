@@ -1,13 +1,13 @@
 layout: photo
 title: Dreamy Pier
-date: 2015-03-18
+date: 2015-03-18 18:47
 flickr: https://www.flickr.com/photos/prhayes/16863840641/
 instagram: https://instagram.com/p/0Yq8XkNFMS/
 
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/22.0"
+aperture: "ƒ/22"
 shutter: "8"
 iso: 100
 focal: "17.0mm"

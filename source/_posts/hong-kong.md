@@ -1,6 +1,6 @@
 layout: photo
 title: "Hong Kong at night"
-date: 2014-09-27
+date: 2014-09-27 11:34
 flickr: https://www.flickr.com/photos/prhayes/15041298994/
 500px: https://500px.com/photo/87437863/hong-kong-at-night-by-paul-hayes
 instagram: http://instagram.com/p/tcsmigtFD_/
@@ -8,7 +8,7 @@ instagram: http://instagram.com/p/tcsmigtFD_/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF-S 17-55mm f/2.8 IS USM"
-aperture: "ƒ/20.0"
+aperture: "ƒ/20"
 shutter: "34.9"
 iso: 100
 focal: "23.0mm"

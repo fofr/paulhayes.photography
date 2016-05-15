@@ -1,6 +1,6 @@
 layout: photo
 title: Polecat
-date: 2014-06-25 17:42:13
+date: 2014-06-25 17:42
 flickr: https://www.flickr.com/photos/prhayes/14334597177/
 instagram: http://instagram.com/p/pwYjakNFCv
 500px: http://500px.com/photo/75799139/polecat-by-paul-hayes

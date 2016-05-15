@@ -1,6 +1,6 @@
 layout: photo
 title: The Gloaming
-date: 2015-08-23
+date: 2015-08-23 19:25
 flickr: https://www.flickr.com/photos/prhayes/20871059285/
 instagram: https://instagram.com/p/6x6CYjtFEM/
 500px: https://500px.com/photo/119416739/the-gloaming-by-paul-hayes

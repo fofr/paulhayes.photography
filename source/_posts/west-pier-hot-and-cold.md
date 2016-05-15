@@ -1,6 +1,6 @@
 layout: photo
 title: Hot and Cold
-date: 2015-02-21
+date: 2015-02-21 18:19
 flickr: https://www.flickr.com/photos/prhayes/15996648323/
 500px: https://500px.com/photo/99743441/hot-and-cold-by-paul-hayes
 instagram: https://instagram.com/p/zagaYyNFHx/
@@ -9,7 +9,7 @@ natgeo: http://yourshot.nationalgeographic.com/photos/5501327/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/16.0"
+aperture: "ƒ/16"
 shutter: "3.2"
 iso: 100
 focal: "17.0mm"

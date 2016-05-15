@@ -1,13 +1,13 @@
 layout: photo
 title: "Great Argus"
-date: 2014-03-30 02:23:00
+date: 2014-03-30 02:23
 flickr: https://www.flickr.com/photos/prhayes/14252850944/
 500px: http://500px.com/photo/76305381/great-argus-by-paul-hayes
 
 exif: true
 camera: "Canon EOS 500D"
 lens: "Canon EF 70-200mm f/4L IS"
-aperture: "ƒ/4.0"
+aperture: "ƒ/4"
 shutter: "1/50"
 iso: 1600
 focal: "200.0mm"

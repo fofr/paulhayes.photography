@@ -1,6 +1,6 @@
 layout: photo
 title: Sky rise
-date: 2015-08-28
+date: 2015-08-28 09:48
 flickr: https://www.flickr.com/photos/prhayes/20950720422/
 instagram: https://instagram.com/p/68RIdDNFBV/
 500px: https://500px.com/photo/119852503/sky-rise-by-paul-hayes

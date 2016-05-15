@@ -1,6 +1,6 @@
 layout: photo
 title: Resplendent Quetzal
-date: 2016-03-12
+date: 2016-03-12 20:28
 flickr: https://www.flickr.com/photos/prhayes/26259743495/
 500px: https://500px.com/photo/150370709/resplendent-quetzal-by-paul-hayes
 

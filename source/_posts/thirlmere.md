@@ -1,6 +1,6 @@
 layout: photo
 title: Over Thirlmere
-date: 2015-09-22
+date: 2015-09-22 15:55
 
 exif: true
 camera: "Canon EOS 70D"

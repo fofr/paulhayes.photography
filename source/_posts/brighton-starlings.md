@@ -1,13 +1,13 @@
 layout: photo
 title: Brighton Starlings
-date: 2015-02-18
+date: 2015-02-18 18:31
 500px: https://500px.com/photo/99391791/brighton-starlings-by-paul-hayes
 instagram: https://instagram.com/p/zSHkQmNFAy/
 
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/5.0"
+aperture: "ƒ/5"
 shutter: "1/400"
 iso: 1600
 focal: "17.0mm"

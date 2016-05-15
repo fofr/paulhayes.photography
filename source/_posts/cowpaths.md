@@ -1,6 +1,6 @@
 layout: photo
 title: Cowpaths
-date: 2015-02-15
+date: 2015-02-15 09:34
 flickr: https://www.flickr.com/photos/prhayes/16535315992/
 500px: https://500px.com/photo/99013735/cowpaths-by-paul-hayes
 instagram: https://instagram.com/p/zIOpJCNFLy/
@@ -8,7 +8,7 @@ instagram: https://instagram.com/p/zIOpJCNFLy/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/16.0"
+aperture: "ƒ/16"
 shutter: "0.4"
 iso: 100
 focal: "17.0mm"

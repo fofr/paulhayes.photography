@@ -1,6 +1,6 @@
 layout: photo
 title: Great Tit
-date: 2015-07-18
+date: 2015-07-18 09:25
 500px: https://500px.com/photo/115741031/great-tit-by-paul-hayes
 flickr: https://www.flickr.com/photos/prhayes/19731740309/
 instagram: https://instagram.com/p/5Si8RzNFAL/

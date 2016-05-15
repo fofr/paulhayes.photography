@@ -1,6 +1,6 @@
 layout: photo
 title: Vanilla Sky
-date: 2015-02-21
+date: 2015-02-21 17:55
 flickr: https://www.flickr.com/photos/prhayes/16418271280/
 500px: https://500px.com/photo/99680945/vanilla-sky-by-paul-hayes
 instagram: https://instagram.com/p/zYNl8BtFLG/
@@ -8,7 +8,7 @@ instagram: https://instagram.com/p/zYNl8BtFLG/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/18.0"
+aperture: "ƒ/18"
 shutter: "1"
 iso: 100
 focal: "24.0mm"

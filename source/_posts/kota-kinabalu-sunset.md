@@ -1,6 +1,6 @@
 layout: photo
 title: "Sunset in Kota Kinabalu"
-date: 2014-03-23 10:52:39
+date: 2014-03-23 10:52
 flickr: https://www.flickr.com/photos/prhayes/14229790106/
 instagram: http://instagram.com/p/l_k0Y-tFIG/
 500px: http://500px.com/photo/75799127/sunset-in-kota-kinabalu-by-paul-hayes
@@ -8,7 +8,7 @@ instagram: http://instagram.com/p/l_k0Y-tFIG/
 exif: true
 camera: "Canon EOS 500D"
 lens: "Canon EF 70-200mm f/4L IS"
-aperture: "ƒ/4.0"
+aperture: "ƒ/4"
 shutter: "1/640"
 iso: 100
 focal: "75.0mm"

@@ -1,6 +1,6 @@
 layout: photo
 title: Portrait of a pheasant
-date: 2016-04-02
+date: 2016-04-02 13:33
 flickr: https://www.flickr.com/photos/prhayes/25609434193/
 instagram: https://www.instagram.com/p/BDu4zd5tFBM/
 500px: https://500px.com/photo/147566519/portrait-of-a-pheasant-by-paul-hayes

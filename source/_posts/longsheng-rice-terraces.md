@@ -1,6 +1,6 @@
 layout: photo
 title: "Golden rice terraces"
-date: 2014-09-25
+date: 2014-09-25 02:10
 flickr: https://www.flickr.com/photos/prhayes/15365746487/
 500px: https://500px.com/photo/87435759/golden-rice-terraces-by-paul-hayes
 instagram: http://instagram.com/p/tXY9uzNFNr/

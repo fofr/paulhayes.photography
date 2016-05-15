@@ -1,6 +1,6 @@
 layout: photo
 title: Brae of Achnahaird
-date: 2015-01-19
+date: 2015-01-19 17:02
 flickr: https://www.flickr.com/photos/prhayes/16163098700/
 500px: https://500px.com/photo/96613495/frozen-achnahaird-by-paul-hayes
 natgeo: http://yourshot.nationalgeographic.com/photos/5262996/
@@ -9,7 +9,7 @@ instagram: https://instagram.com/p/yHAhEGNFCM/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/11.0"
+aperture: "ƒ/11"
 shutter: "0.3"
 iso: 100
 focal: "17.0mm"

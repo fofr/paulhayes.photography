@@ -1,7 +1,7 @@
 layout: photo
 title: Supermoon rising over Brighton Pier
 dark: true
-date: 2015-09-27
+date: 2015-09-27 18:57
 instagram: https://instagram.com/p/8JnNYjNFGz/
 flickr: https://www.flickr.com/photos/prhayes/21180939264/
 

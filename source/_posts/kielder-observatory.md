@@ -1,6 +1,6 @@
 layout: photo
 title: Observatory under the stars
-date: 2015-09-13
+date: 2015-09-13 21:00
 
 exif: true
 camera: "Canon EOS 70D"

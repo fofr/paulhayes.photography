@@ -1,6 +1,6 @@
 layout: photo
 title: Blade Runner
-date: 2015-07-21
+date: 2015-07-21 23:01
 flickr: https://www.flickr.com/photos/prhayes/19903704121/
 instagram: https://instagram.com/p/5alQ2iNFGX/
 
@@ -8,7 +8,7 @@ exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"
 aperture: "ƒ/5.6"
-shutter: "1.0"
+shutter: "1"
 iso: 800
 focal: "200.0mm"
 

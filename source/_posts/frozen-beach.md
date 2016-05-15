@@ -1,6 +1,6 @@
 layout: photo
 title: Frozen Beach
-date: 2015-01-19
+date: 2015-01-19 17:41
 flickr: https://www.flickr.com/photos/prhayes/16174486098/
 500px: https://500px.com/photo/96785157/frozen-beach-by-paul-hayes
 instagram: https://instagram.com/p/yHDEPotFEB/
@@ -8,7 +8,7 @@ instagram: https://instagram.com/p/yHDEPotFEB/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/16.0"
+aperture: "ƒ/16"
 shutter: "13"
 iso: 100
 focal: "17.0mm"

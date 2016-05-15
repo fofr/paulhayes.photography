@@ -1,12 +1,12 @@
 layout: photo
 title: Seven Sisters
-date: 2016-01-16
+date: 2016-01-16 09:33
 
 exif: true
 camera: "Canon EOS 500D"
 lens: "Canon EF 17-40mm f/4L USM"
 aperture: "ƒ/18"
-shutter: "0.5"
+shutter: "1/2"
 iso: 100
 focal: "29.0mm"
 

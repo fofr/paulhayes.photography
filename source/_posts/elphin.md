@@ -1,6 +1,6 @@
 layout: photo
 title: Elphin
-date: 2015-01-19
+date: 2015-01-19 14:54
 flickr: https://www.flickr.com/photos/prhayes/16336344575/
 500px: https://500px.com/photo/96613493/elphin-by-paul-hayes
 natgeo: http://yourshot.nationalgeographic.com/photos/5252283/
@@ -9,7 +9,7 @@ instagram: https://instagram.com/p/yFv1eitFIf/
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"
-aperture: "ƒ/13.0"
+aperture: "ƒ/13"
 shutter: "1/100"
 iso: 100
 focal: "25.0mm"

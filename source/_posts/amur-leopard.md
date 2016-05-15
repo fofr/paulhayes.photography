@@ -1,6 +1,6 @@
 layout: photo
 title: Amur Leopard
-date: 2015-04-08
+date: 2015-04-08 10:57
 flickr: https://www.flickr.com/photos/prhayes/16931733590/
 instagram: https://instagram.com/p/1VC_YrtFOr/
 500px: https://500px.com/photo/104676917/amur-leopard-by-paul-hayes
