@@ -2,6 +2,7 @@ layout: photo
 title: "Rusty pier"
 date: 2016-05-08 06:14
 instagram: https://www.instagram.com/p/BFJjOUKtFDG/
+twitter: https://twitter.com/phayesphoto/status/729574528846860288
 
 exif: true
 camera: "Canon EOS 70D"
