@@ -1,15 +1,8 @@
-hexo.extend.helper.register('getPhotosBySlug', function(slugsArray){
-  var posts = [],
-      hexo = this;
+var PostFinder = require('./post-finder');
 
-  for (var i = 0, l = slugsArray.length; i < l; i++) {
-    var slug = 'photos/' + slugsArray[i],
-        post = hexo.site.posts.findOne({slug: slug});
+hexo.extend.helper.register('getPhotosBySlug', function(slugs){
+  var hexo = this,
+      postFinder = new PostFinder(hexo);
 
-    if (post) {
-      posts.push(post);
-    }
-  }
-
-  return posts;
+  return postFinder.photosFromSlugs(slugs);
 });
