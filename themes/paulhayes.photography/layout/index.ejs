@@ -4,12 +4,10 @@
     <div class="home-pullout-left">
       <% for (var i = 0, l = photos.length; i < l; i++) {
         photo = photos[i];
-        photo.filename = photo.filename || photo.slug;
-        photo.file = config.image_dir + '1720/' + photo.filename + '.jpg';
       %>
         <div class="photo-image-wrapper">
           <a href="<%= photo.path %>">
-            <img src="<%= photo.file %>" class="photo-image" alt="<%= photo.title %>" />
+            <img src="<%= photo.image %>" class="photo-image" alt="<%= photo.title %>" />
           </a>
         </div>
       <% } %>

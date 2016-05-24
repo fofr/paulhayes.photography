@@ -48,8 +48,8 @@ function json(site) {
       api_path: apiPath(post.path),
       permalink: post.permalink,
       content: post.content,
-      photo: hexo.config.image_dir + '1720/' + post.slug + '.jpg',
-      thumbnail: hexo.config.image_dir + 'square/380/' + post.slug + '.jpg',
+      photo: post.image,
+      thumbnail: post.squareThumbnail,
       tags: post.tags.map(function (tag) {
         return {
           name: tag.name,

@@ -20,7 +20,7 @@ unless exif
 end
 
 image = path_to_image.split('/').last
-post = "./source/_posts/#{image.sub('.jpg', '.md')}"
+post = "./source/_posts/photos/#{image.sub('.jpg', '.md')}"
 
 def title(image)
   image.sub('.jpg', '').gsub('-', ' ').capitalize

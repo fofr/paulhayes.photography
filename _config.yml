@@ -13,7 +13,7 @@ site_build: local
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://paulhayes.photography
 root: /
-permalink: :year-:month/:title/
+permalink: :title/
 tag_dir: tag
 archive_dir: archive
 category_dir: category

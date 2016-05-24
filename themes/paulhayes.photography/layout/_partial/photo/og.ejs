@@ -1,8 +1,4 @@
-<%
-  photo.filename = photo.filename || photo.slug;
-  photo.file = config.image_dir + 'watermarked/1720/' + photo.filename + '.jpg';
-%>
 <meta content="website" property="og:type" />
 <meta content="<%= photo.permalink %>" property="og:url" />
 <meta content="<%= photo.title %> – <%= config.title %>" property="og:title" />
-<meta content="<%= photo.file %>" property="og:image" />
+<meta content="<%= photo.openGraphImage %>" property="og:image" />
