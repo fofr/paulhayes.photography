@@ -2,7 +2,7 @@ title: 'Contact'
 layout: 'page'
 ---
 
-If you’d like to use or licence any of my photos please get in touch at the following address:
+If you’d like to use or licence any photos please get in touch at the following address:
 
 Email me at {% contact %}
 
