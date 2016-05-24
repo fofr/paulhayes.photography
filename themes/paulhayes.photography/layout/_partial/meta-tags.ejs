@@ -2,9 +2,7 @@
   first_photo = null;
   site.posts.sort('date', 1).each(function(latestPost, i){
     if (latestPost.exif) {
-      first_photo = latestPost
-      first_photo.filename = first_photo.filename || first_photo.slug;
-      first_photo.file = config.image_dir + '435/' + first_photo.filename + '.jpg';
+      first_photo = latestPost;
     }
   });
 %>
@@ -17,5 +15,5 @@
 <meta name="twitter:site" content="@phayesphoto" />
 <meta name="twitter:title" content="Paul Hayes Photography" />
 <meta name="twitter:description" content="Sussex based nature photographer" />
-<% if (first_photo) { %><meta name="twitter:image" content="<%= first_photo.file %>" /><% } %>
+<% if (first_photo) { %><meta name="twitter:image" content="<%= first_photo.twitterImage %>" /><% } %>
 <meta name="twitter:url" content="<%= config.url %>" />
