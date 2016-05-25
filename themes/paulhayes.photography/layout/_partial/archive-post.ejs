@@ -1,5 +1,7 @@
+<% if (post.layout == "photo") { %>
 <li class="listing-item">
   <a href="<%- config.root %><%- post.path %>" class="listing-image-link" style="background-image: url('<%= post.squareThumbnail %>')">
     <img src="<%= post.squareThumbnail %>" alt="<%= post.title %>" class="listing-image" />
   </a>
 </li>
+<% } %>
