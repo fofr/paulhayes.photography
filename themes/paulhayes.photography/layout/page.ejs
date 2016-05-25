@@ -1,5 +1,12 @@
-<% if (page.layout == 'page') { %>
-  <%- partial('_partial/page', {post: page}) %>
-<% } else { %>
-  <%- partial('_partial/article', {post: page}) %>
-<% } %>
+<main role="main">
+  <article class="container article h-entry">
+    <header class="article-header">
+      <h1 class="main-content-title page-title entry-title p-name">
+        <%= page.title %>
+      </h1>
+    </header>
+    <div class="article-content entry-content e-content">
+      <%- expandPhotos(page.content) %>
+    </div>
+  </article>
+</main>
