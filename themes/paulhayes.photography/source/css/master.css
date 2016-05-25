@@ -591,3 +591,46 @@ a:active {
     margin-right: -60px;
   }
 }
+
+/* ==========================================================================
+ Set photos
+ ========================================================================== */
+
+.album-photo {
+  overflow: hidden;
+  margin: 40px 0 40px -40px
+}
+
+.album-photo .photo-image-wrapper {
+  width: 67.5%;
+  float: left;
+}
+
+.album-photo figcaption {
+  width: 32.5%;
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 30px;
+}
+
+@media all and (max-width: 580px) {
+  .album-photo .photo-image-wrapper,
+  .album-photo figcaption {
+    float: none;
+    width: auto;
+  }
+
+  .album-photo figcaption {
+    padding-left: 40px;
+  }
+
+  .album-photo .photo-image-wrapper {
+    margin-bottom: 20px;
+  }
+
+  .album-photo {
+    margin-right: -30px;
+  }
+}

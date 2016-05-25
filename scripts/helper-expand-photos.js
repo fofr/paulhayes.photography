@@ -6,7 +6,7 @@ hexo.extend.helper.register('expandPhotos', function(content){
   function expandPhotos(match, slug, modifier, caption) {
     post = postFinder.photoFromSlug(slug);
 
-    return hexo.partial('_partial/set-photo', {
+    return hexo.partial('_partial/album-photo', {
       post: post,
       caption: caption,
       modifier: modifier
