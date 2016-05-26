@@ -1,0 +1,18 @@
+<main role="main">
+  <article class="container article h-entry">
+    <header class="article-header">
+      <h1 class="main-content-title page-title entry-title p-name">
+        <%= page.title %>
+      </h1>
+    </header>
+    <section class="listing listing-images clearfix">
+      <ol>
+        <% site.posts.sort('date', -1).each(function(post) { %>
+          <% if (post.layout == type) { %>
+            <%- partial('_partial/listing/' + type, {post: post}) %>
+          <% } %>
+        <% }) %>
+      </ol>
+    </section>
+  </article>
+</main>
