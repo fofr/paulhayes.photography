@@ -1,7 +1,9 @@
 <section class="listing listing-images clearfix">
   <ol>
     <% page.posts.each(function(post){ %>
-      <%- partial('archive-post', {post: post}) %>
+      <% if (post.layout == type) { %>
+        <%- partial('_partial/listing/' + type, {post: post}) %>
+      <% } %>
     <% }) %>
   </ol>
 </section>
