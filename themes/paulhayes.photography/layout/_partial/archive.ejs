@@ -1,6 +1,7 @@
+<% posts = page.posts || site.posts.sort('date', -1) %>
 <section class="listing listing-<%= type %> clearfix">
   <ol>
-    <% page.posts.each(function(post){ %>
+    <% posts.each(function(post){ %>
       <% if (post.layout == type) { %>
         <%- partial('_partial/listing/' + type, {post: post}) %>
       <% } %>

@@ -5,14 +5,6 @@
         <%= page.title %>
       </h1>
     </header>
-    <section class="listing listing-images clearfix">
-      <ol>
-        <% site.posts.sort('date', -1).each(function(post) { %>
-          <% if (post.layout == type) { %>
-            <%- partial('_partial/listing/' + type, {post: post}) %>
-          <% } %>
-        <% }) %>
-      </ol>
-    </section>
+    <%- partial('_partial/archive', {type: type}) %>
   </article>
 </main>
