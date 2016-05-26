@@ -427,16 +427,82 @@ a:active {
   background: #eee;
 }
 
-@media all and (max-width: 840px) {
-  .listing {
-    width: auto;
+@media all and (max-width: 860px) {
+  .listing-photo {
     margin: auto -5px;
+  }
+
+  .listing-album {
+    margin: auto -30px;
   }
 }
 
 @media all and (max-width: 540px) {
   .listing-photo-item {
     padding: 1%;
+  }
+}
+
+.listing-album-item {
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  float: left;
+  width: 33.333%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.listing-album-title {
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-align: right;
+}
+
+.listing-album-cover-link {
+  display: block;
+  height: 0;
+  padding-top: 150%;
+  width: 100%;
+  background: #eee;
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+  position: relative;
+}
+
+@media all and (max-width: 720px) {
+  .listing-album-item {
+    width: 50%;
+  }
+
+  .listing-album-item:nth-child(odd) {
+    padding-left: 0;
+  }
+
+  .listing-album-item:nth-child(even) {
+    padding-right: 0;
+  }
+}
+
+@media all and (max-width: 620px) {
+  .listing-album-title {
+    font-size: 0.8em;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .listing-album-item {
+    width: 100%;
+    padding: 0;
+  }
+
+  .listing-album-title {
+    font-size: 1em;
   }
 }
 

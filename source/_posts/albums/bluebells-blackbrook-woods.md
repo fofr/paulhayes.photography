@@ -1,7 +1,7 @@
 layout: album
 title: Bluebells at Blackbrook Woods
 date: 2016-04-30
-cover: "bluebell-bloom"
+cover: "tree-in-bluebells"
 
 tags:
   - bluebells
