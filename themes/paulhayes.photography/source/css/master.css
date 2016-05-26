@@ -264,6 +264,11 @@ a:active {
 }
 
 .masthead-link {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.masthead-link {
   text-decoration: none;
 }
 
@@ -295,7 +300,7 @@ a:active {
 .main-content-title {
   color: #000;
   font-size: 2.6666666667em; /* 64px/24px */
-  line-height: 1.25; /* 80/64px */
+  line-height: 1em;
   margin: 1.375em 0 0.84375em -40px; /* 88/64px,  88/54px */
   font-size:  1.75em;
 }
