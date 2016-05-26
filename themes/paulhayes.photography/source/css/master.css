@@ -393,7 +393,7 @@ a:active {
   margin: 0 -40px;
 }
 
-.listing-item {
+.listing-photo-item {
   width: 25%;
   float: left;
   padding: 5px;
@@ -403,7 +403,7 @@ a:active {
 }
 
 @media all and (max-width: 540px) {
-  .listing-item {
+  .listing-photo-item {
     width: 33.33333%;
   }
 }
@@ -435,7 +435,7 @@ a:active {
 }
 
 @media all and (max-width: 540px) {
-  .listing-item {
+  .listing-photo-item {
     padding: 1%;
   }
 }
