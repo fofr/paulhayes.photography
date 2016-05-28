@@ -727,6 +727,7 @@ a:active {
 
   .album-photo figcaption {
     padding-left: 40px;
+    padding-right: 40px;
   }
 
   .album-photo .photo-image-wrapper {
