@@ -324,7 +324,7 @@ a:active {
   margin-left: 0;
 }
 
-@media all and (max-width: 559px) {
+@media all and (max-width: 600px) {
   .site-home {
     font-weight: bold;
   }
@@ -428,6 +428,20 @@ a:active {
 
 .listing {
   margin: 0 -40px;
+}
+
+.listing-blog {
+  margin: 0;
+}
+
+.listing-blog-item {
+  margin-top: 40px;
+}
+
+.listing-blog-link {
+  display: block;
+  font-size: 1.4em;
+  margin-bottom: 20px;
 }
 
 .listing-photo-item {
@@ -580,6 +594,35 @@ a:active {
 }
 
 /* ==========================================================================
+ Article content
+ ========================================================================== */
+
+.article-content h2 {
+  font-size: 1.4em;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.article-content h3 {
+  margin-bottom: 20px;
+}
+
+.article-content ul {
+  margin-left: 20px;
+}
+
+.article-content ul li {
+  list-style: disc;
+}
+
+.article-content pre {
+  margin-bottom: 20px;
+  border: 1px solid #aaa;
+  padding: 20px;
+  overflow: scroll;
+}
+
+/* ==========================================================================
  Photos
  ========================================================================== */
 
@@ -608,6 +651,12 @@ a:active {
 .article-tag-list-item {
   display: inline;
   margin-right: 1em;
+}
+
+time.published {
+  display: inline-block;
+  color: #999;
+  margin-bottom: 5px;
 }
 
 @media all and (max-width: 540px) {

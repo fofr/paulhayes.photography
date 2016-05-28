@@ -1,6 +1,9 @@
 <main role="main">
   <article class="container article h-entry">
     <header class="article-header">
+      <% if (page.layout !== "page") { %>
+        <%- partial('_partial/post/published', {post: post, link: true}) %>
+      <% } %>
       <h1 class="main-content-title page-title entry-title p-name">
         <%= page.title %>
       </h1>

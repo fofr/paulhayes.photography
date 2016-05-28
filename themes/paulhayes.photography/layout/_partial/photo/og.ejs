@@ -1,4 +1,4 @@
 <meta content="website" property="og:type" />
 <meta content="<%= photo.permalink %>" property="og:url" />
 <meta content="<%= photo.title %> – <%= config.title %>" property="og:title" />
-<meta content="<%= photo.openGraphImage %>" property="og:image" />
+<% if (photo.openGraphImage) { %><meta content="<%= photo.openGraphImage %>" property="og:image" /><% } %>
