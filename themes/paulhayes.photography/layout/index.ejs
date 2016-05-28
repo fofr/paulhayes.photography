@@ -22,7 +22,13 @@
   </div>
 
   <div class="container">
-    <h2 class="home-gallery-title main-content-title page-title text-center">Most recent</h2>
+    <h2 class="home-gallery-title main-content-title page-title text-center">Albums</h2>
+
+    <%- partial('_partial/archive', {type: 'album'}) %>
+  </div>
+
+  <div class="container">
+    <h2 class="home-gallery-title main-content-title page-title text-center">Photos</h2>
 
     <%- partial('_partial/archive', {type: 'photo'}) %>
   </div>

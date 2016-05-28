@@ -8,11 +8,18 @@
         } else if (is_year()){
           title = page.year;
         } else {
-          title = 'All photos';
+          title = 'Everything';
         }
       }
     %>
     <%= title %>
   </h1>
+
+  <% if (page.posts.filter(function(post){ return post.layout == "album" }).length) { %>
+    <h2>Albums</h2>
+    <%- partial('_partial/archive', {type: 'album'}) %>
+  <% } %>
+
+  <h2>Photos</h2>
   <%- partial('_partial/archive', {type: 'photo'}) %>
 </div>

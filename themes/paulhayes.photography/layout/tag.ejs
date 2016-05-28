@@ -2,5 +2,12 @@
   <h1 class="main-content-title page-title">
     #<%= page.tag.replace(' ', '-') %>
   </h1>
+
+  <% if (page.posts.filter(function(post){ return post.layout == "album" }).length) { %>
+    <h2>Albums</h2>
+    <%- partial('_partial/archive', {type: 'album'}) %>
+  <% } %>
+
+  <h2>Photos</h2>
   <%- partial('_partial/archive', {type: 'photo'}) %>
 </div>
