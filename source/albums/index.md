@@ -1,3 +1,3 @@
 layout: "album-index"
-title: Albums
+title: All albums
 ---

@@ -167,7 +167,7 @@ h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h4, h5, h6,
-.masthead {
+.masthead, .site-nav {
   font-family: "neuzeit-grotesk", "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -229,7 +229,7 @@ a:active {
   overflow: hidden;
   width: 485px;
   margin-top: 100px;
-  margin-bottom: 60px;
+  margin-bottom: 100px;
 }
 
 @media all and (max-width: 840px) {
@@ -257,24 +257,6 @@ a:active {
 .masthead-title {
   font-weight: bold;
   color: #000;
-}
-
-.masthead-subtitle {
-  color: #aaa;
-}
-
-.masthead-link {
-  display: inline-block;
-  margin-bottom: 5px;
-}
-
-.masthead-link {
-  text-decoration: none;
-}
-
-.masthead-link:hover,
-.masthead-link:focus {
-  color: #aaa;
 }
 
 .masthead-logo {
@@ -308,6 +290,55 @@ a:active {
 .photo-title,
 .page-title {
   margin: 0 0 24px;
+}
+
+/* ==========================================================================
+ Site nav
+ ========================================================================== */
+
+.site-nav {
+  padding: 20px 0;
+  margin-bottom: 60px;
+  background: #f6f6f6;
+  overflow: hidden;
+}
+
+.site-nav a {
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.site-parts {
+  text-align: right;
+  float: right;
+}
+
+.site-parts a {
+  margin-left: 20px;
+}
+
+.site-parts a:first-child {
+  margin-left: 0;
+}
+
+@media all and (max-width: 559px) {
+  .site-home {
+    font-weight: bold;
+  }
+
+  .site-parts {
+    font-size: 0.9em;
+    margin-top: 5px;
+    text-align: left;
+    float: none;
+  }
+
+  .site-parts a {
+    margin-left: 10px;
+  }
 }
 
 /* ==========================================================================

@@ -1,12 +1,16 @@
+<nav class="site-nav" role="navigation">
+  <div class="container">
+    <a href="/" class="site-home">Paul Hayes Photography</a>
+    <div class="site-parts">
+      <a href="/albums/">Albums</a>
+      <a href="/photos/">Photos</a>
+      <a href="/contact/">Contact</a>
+    </div>
+  </div>
+</nav>
 <% if (is_home()) { %>
   <header class="masthead masthead-home container">
     <img class="masthead-logo" src="/images/paul-logo-descender-600.png" alt="Paul Hayes Photography logo, 'Paul' written in the style of a landscape" width="300" /><br />
     <span class="masthead-title">Paul Hayes<br />Photography</span>
-  </header>
-<% } else { %>
-  <header class="masthead container">
-    <a href="/" class="masthead-link">
-      <span class="masthead-subtitle">Paul Hayes Photography</span>
-    </a>
   </header>
 <% } %>
