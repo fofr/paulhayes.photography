@@ -2,4 +2,4 @@
   <% title = page.category; %>
   <%= title.charAt(0).toUpperCase() + title.slice(1) %>
 </h2>
-<%- partial('_partial/archive') %>
+<%- partial('_partial/archive', {type: 'photo'}) %>

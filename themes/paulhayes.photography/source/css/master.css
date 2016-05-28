@@ -167,7 +167,7 @@ h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h4, h5, h6,
-.masthead {
+.masthead, .site-nav {
   font-family: "neuzeit-grotesk", "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -229,7 +229,7 @@ a:active {
   overflow: hidden;
   width: 485px;
   margin-top: 100px;
-  margin-bottom: 60px;
+  margin-bottom: 100px;
 }
 
 @media all and (max-width: 840px) {
@@ -259,19 +259,6 @@ a:active {
   color: #000;
 }
 
-.masthead-subtitle {
-  color: #aaa;
-}
-
-.masthead-link {
-  text-decoration: none;
-}
-
-.masthead-link:hover,
-.masthead-link:focus {
-  color: #aaa;
-}
-
 .masthead-logo {
   float: right;
   max-width: 100%;
@@ -295,7 +282,7 @@ a:active {
 .main-content-title {
   color: #000;
   font-size: 2.6666666667em; /* 64px/24px */
-  line-height: 1.25; /* 80/64px */
+  line-height: 1em;
   margin: 1.375em 0 0.84375em -40px; /* 88/64px,  88/54px */
   font-size:  1.75em;
 }
@@ -303,6 +290,55 @@ a:active {
 .photo-title,
 .page-title {
   margin: 0 0 24px;
+}
+
+/* ==========================================================================
+ Site nav
+ ========================================================================== */
+
+.site-nav {
+  padding: 20px 0;
+  margin-bottom: 60px;
+  background: #f6f6f6;
+  overflow: hidden;
+}
+
+.site-nav a {
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.site-parts {
+  text-align: right;
+  float: right;
+}
+
+.site-parts a {
+  margin-left: 20px;
+}
+
+.site-parts a:first-child {
+  margin-left: 0;
+}
+
+@media all and (max-width: 559px) {
+  .site-home {
+    font-weight: bold;
+  }
+
+  .site-parts {
+    font-size: 0.9em;
+    margin-top: 5px;
+    text-align: left;
+    float: none;
+  }
+
+  .site-parts a {
+    margin-left: 10px;
+  }
 }
 
 /* ==========================================================================
@@ -372,7 +408,8 @@ a:active {
 }
 
 .home-gallery-title {
-  padding-bottom: 20px;
+  margin-top: 90px;
+  margin-bottom: 40px;
 }
 
 /* Galleries
@@ -393,7 +430,7 @@ a:active {
   margin: 0 -40px;
 }
 
-.listing-item {
+.listing-photo-item {
   width: 25%;
   float: left;
   padding: 5px;
@@ -403,7 +440,7 @@ a:active {
 }
 
 @media all and (max-width: 540px) {
-  .listing-item {
+  .listing-photo-item {
     width: 33.33333%;
   }
 }
@@ -427,16 +464,82 @@ a:active {
   background: #eee;
 }
 
-@media all and (max-width: 840px) {
-  .listing {
-    width: auto;
+@media all and (max-width: 860px) {
+  .listing-photo {
     margin: auto -5px;
+  }
+
+  .listing-album {
+    margin: auto -30px;
   }
 }
 
 @media all and (max-width: 540px) {
-  .listing-item {
+  .listing-photo-item {
     padding: 1%;
+  }
+}
+
+.listing-album-item {
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  float: left;
+  width: 33.333%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.listing-album-title {
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-align: right;
+}
+
+.listing-album-cover-link {
+  display: block;
+  height: 0;
+  padding-top: 150%;
+  width: 100%;
+  background: #eee;
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+  position: relative;
+}
+
+@media all and (max-width: 720px) {
+  .listing-album-item {
+    width: 50%;
+  }
+
+  .listing-album-item:nth-child(odd) {
+    padding-left: 0;
+  }
+
+  .listing-album-item:nth-child(even) {
+    padding-right: 0;
+  }
+}
+
+@media all and (max-width: 620px) {
+  .listing-album-title {
+    font-size: 0.8em;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .listing-album-item {
+    width: 100%;
+    padding: 0;
+  }
+
+  .listing-album-title {
+    font-size: 1em;
   }
 }
 
@@ -589,5 +692,49 @@ a:active {
   .nav-arrow-right {
     right: 50%;
     margin-right: -60px;
+  }
+}
+
+/* ==========================================================================
+ Set photos
+ ========================================================================== */
+
+.album-photo {
+  overflow: hidden;
+  margin: 40px 0 40px -40px
+}
+
+.album-photo .photo-image-wrapper {
+  width: 67.5%;
+  float: left;
+}
+
+.album-photo figcaption {
+  width: 32.5%;
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 30px;
+}
+
+@media all and (max-width: 580px) {
+  .album-photo .photo-image-wrapper,
+  .album-photo figcaption {
+    float: none;
+    width: auto;
+  }
+
+  .album-photo figcaption {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .album-photo .photo-image-wrapper {
+    margin-bottom: 20px;
+  }
+
+  .album-photo {
+    margin-right: -30px;
   }
 }

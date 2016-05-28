@@ -5,7 +5,6 @@ RewriteEngine On
 RewriteRule ^email/?$ /contact/ [R=301,NC,L]
 RewriteRule ^feed/ /atom.xml [R=301,NC,L]
 RewriteRule ^tag/$ /archive/ [R=301,NC,L]
-RewriteRule ^photos/$ /archive/ [R=301,NC,L]
 
 # Photos used to live at /2011-01/...
 RewriteRule ^201\d-\d{2}/(.*)$ /photos/$1 [R=301,NC,L]
