@@ -615,6 +615,13 @@ a:active {
   list-style: disc;
 }
 
+.article-content pre {
+  margin-bottom: 20px;
+  border: 1px solid #aaa;
+  padding: 20px;
+  overflow: scroll;
+}
+
 /* ==========================================================================
  Photos
  ========================================================================== */
