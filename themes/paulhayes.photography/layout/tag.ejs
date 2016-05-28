@@ -3,6 +3,11 @@
     #<%= page.tag.replace(' ', '-') %>
   </h1>
 
+  <% if (page.posts.filter(function(post){ return post.layout == "blog" }).length) { %>
+    <h2>Blog</h2>
+    <%- partial('_partial/archive', {type: 'blog'}) %>
+  <% } %>
+
   <% if (page.posts.filter(function(post){ return post.layout == "album" }).length) { %>
     <h2>Albums</h2>
     <%- partial('_partial/archive', {type: 'album'}) %>

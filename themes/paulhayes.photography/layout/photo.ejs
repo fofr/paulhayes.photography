@@ -3,7 +3,8 @@
 %>
 <main role="main">
   <article class="container single-photo clearfix" id="photo">
-    <header class="photo-header">
+    <header class="article-header">
+      <%- partial('_partial/post/published', {post: photo, link: true}) %>
       <h1 class="main-content-title photo-title">
         <%= photo.title %>
       </h1>
@@ -12,11 +13,10 @@
       <img src="<%= photo.image %>" class="photo-image" alt="<%= photo.title %>" />
       <%- partial('_partial/post/nav', {post: photo}) %>
     </div>
-    <div class="photo-content">
+    <div class="article-content photo-content">
       <%- photo.content %>
     </div>
     <div class="photo-meta">
-      <%- partial('_partial/post/published', {post: photo}) %>
       <%- partial('_partial/photo/external', {photo: photo}) %>
       <%- partial('_partial/photo/exif', {photo: photo}) %>
       <%- partial('_partial/photo/tags', {photo: photo}) %>

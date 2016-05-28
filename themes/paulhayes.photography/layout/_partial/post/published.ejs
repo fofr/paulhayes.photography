@@ -1,4 +1,4 @@
 <time datetime="<%= date_xml(post.date) %>" class="entry-date published dt-published" pubdate>
   <%= date(post.date, 'MMM') %>
-  <a href="/archive/<%= date(post.date, 'YYYY') %>"><%= date(post.date, 'YYYY') %></a>
+  <% if (link) { %><a href="/archive/<%= date(post.date, 'YYYY') %>"><% } %><%= date(post.date, 'YYYY') %><% if (link) { %></a><% } %>
 </time>

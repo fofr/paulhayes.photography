@@ -1,0 +1,11 @@
+<li class="listing-blog-item">
+  <%- partial('_partial/post/published', {post: post, link: false}) %>
+  <h2 class="listing-blog-title">
+    <a href="<%- config.root %><%- post.path %>" class="listing-blog-link">
+      <%= post.title %>
+    </a>
+  </h2>
+  <p class="listing-blog-description">
+    <%= post.description %>
+  </p>
+</li>
