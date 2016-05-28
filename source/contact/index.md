@@ -2,8 +2,16 @@ title: 'Contact'
 layout: 'page'
 ---
 
-If you’d like to use or licence any photos please get in touch at the following address:
+## Social media
 
-Email me at {% contact %}
+* [Twitter - @phayesphoto](https://twitter.com/phayesphoto)
+* [Flickr](https://www.flickr.com/photos/prhayes/)
+* [Instagram](https://www.instagram.com/fofr/)
+* [500px](https://500px.com/fofr)
 
-When not taking photos I build websites. To learn more about my websites visit [paulrhayes.com](http://paulrhayes.com/).
+## Email
+
+Email me at: {% contact %}
+
+When not taking photos I build websites.
+[paulrhayes.com](http://paulrhayes.com/)
