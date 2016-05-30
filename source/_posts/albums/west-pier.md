@@ -15,8 +15,10 @@ tags:
 A Brighton favourite, and one of the south’s most photographed landmarks. Living in Brighton, and just a short walk from the sea, the opportunity to wander down and photograph this icon is often hard to pass up.
 
 {% photo west-pier-sunset %}
-A sunset in February 2015, during a particularly low tide. This was shortly after the destructive January storms that removed a large section of the pier.
+A sunset in February 2015, during a particularly low tide.
 {% endphoto %}
+
+## Classic shot
 
 To get the _classic_ shot, it's best to position yourself between the last of the remaining supports, with the tide just about touching your toes. If the tide goes out beyond that you’ll start to get some ugly low-lying wreckage in your shot, too high and you’ll need to include the supports – and you’ll notice they don’t quite line up with the centre of the pier.
 
@@ -32,13 +34,7 @@ A long exposure at dawn on Halloween. The skies were a beautiful pink, and my 3-
 A tighter crop of the pier, on a cold winter’s morning.
 {% endphoto %}
 
-On an early morning photography trip to the beach with my wife Samantha, we focused on the seagulls and their behaviour during low tide. They were diving in to the shallow sea to pluck out the starfish. This led to an alternative take on the classic landmark.
-
-{% photo west-pier-rust %}
-A rusty close-up of the decaying frame and its latest seagull inhabitants.
-{% endphoto %}
-
-A popular alternative is to also include the concrete groin. From the angle the recent hole in the left side of the pier isn’t visible. Both of the shots below were taken on the same evening, and the beach was crowded with photographers and their tripods.
+When the tide is higher, a popular alternative is to include the concrete groin to the pier’s left. Both of the shots below were taken on the same evening, and the beach was crowded with photographers and their tripods.
 
 {% photo west-pier-hot-and-cold %}
 I like the cyan-orange juxtaposition in this shot. Soon after the sunset the heaven’s opened and the beach emptied.
@@ -47,6 +43,16 @@ I like the cyan-orange juxtaposition in this shot. Soon after the sunset the hea
 {% photo west-pier-vanilla-sky %}
 The tide, on its way out, left a few shallow reflecting pools on the groin to pick out the colour of the sky.
 {% endphoto %}
+
+## Seagulls
+
+On an early morning photography trip to the beach with my wife Samantha, we focused on the seagulls and their behaviour during low tide. They were diving in to the shallow sea to pluck out the starfish. This led to an alternative take on the classic landmark.
+
+{% photo west-pier-rust %}
+A rusty close-up of the decaying frame and its latest seagull inhabitants.
+{% endphoto %}
+
+## Starlings
 
 From November through March, and peaking in March, Brighton’s roosting starlings flock around Palace Pier (or Brighton Pier, if you prefer). From this vantage, in the evening, you can set their murmurations against the west pier.
 
