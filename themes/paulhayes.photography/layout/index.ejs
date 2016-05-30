@@ -1,4 +1,4 @@
-<% photos = getPhotosBySlug(['thirlmere']); %>
+<% photos = getPhotosBySlug(['tiger']); %>
 <main role="main">
   <div class="clearfix container home-pullout">
     <div class="home-pullout-left">
@@ -13,23 +13,29 @@
       <% } %>
     </div>
     <div class="home-pullout-right">
-      <p><strong>Paul Hayes is a landscape and wildlife photographer in Sussex.</strong></p>
+      <div class="article-content">
+        <p>Paul Hayes is a nature photographer in&nbsp;Sussex.</p>
+        <ul>
+          <li><a href="https://twitter.com/phayesphoto">Twitter - @phayesphoto</a></li>
+          <li><a href="https://www.flickr.com/photos/prhayes/">Flickr</a></li>
+          <li><a href="https://www.instagram.com/fofr/">Instagram</a></li>
+          <li><a href="https://500px.com/fofr">500px</a></li>
+        </ul>
+      </div>
 
-      <p>Prints and licenses available on request, <a href="/contact">get&nbsp;in&nbsp;touch</a>.</p>
-
-      <p>Follow Paul Hayes on <a href="https://twitter.com/phayesphoto">Twitter</a>, <a href="https://www.flickr.com/photos/prhayes">Flickr</a>, <a href="https://500px.com/fofr">500px</a> and <a href="https://instagram.com/fofr/">Instagram</a>.</p>
+      <%- partial('_partial/archive', {type: 'blog', limit: 1}) %>
     </div>
   </div>
 
   <div class="container">
-    <h2 class="home-gallery-title main-content-title page-title text-center">Albums</h2>
+    <h2 class="home-gallery-title main-content-title page-title text-center">Recent photos</h2>
 
-    <%- partial('_partial/archive', {type: 'album'}) %>
+    <%- partial('_partial/archive', {type: 'photo', limit: 8}) %>
   </div>
 
   <div class="container">
-    <h2 class="home-gallery-title main-content-title page-title text-center">Photos</h2>
+    <h2 class="home-gallery-title main-content-title page-title text-center">Recent albums</h2>
 
-    <%- partial('_partial/archive', {type: 'photo'}) %>
+    <%- partial('_partial/archive', {type: 'album', limit: 3}) %>
   </div>
 </main>
