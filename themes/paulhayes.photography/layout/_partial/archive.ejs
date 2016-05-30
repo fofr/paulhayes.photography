@@ -1,10 +1,15 @@
-<% posts = page.posts || site.posts.sort('date', -1) %>
+<%
+  posts = page.posts || site.posts.sort('date', -1);
+  posts = posts.filter(function(post){ return post.layout == type });
+
+  if (typeof limit === "number") {
+    posts = posts.limit(limit);
+  }
+%>
 <section class="listing listing-<%= type %> clearfix">
   <ol>
     <% posts.each(function(post){ %>
-      <% if (post.layout == type) { %>
-        <%- partial('_partial/listing/' + type, {post: post}) %>
-      <% } %>
+      <%- partial('_partial/listing/' + type, {post: post}) %>
     <% }) %>
   </ol>
 </section>
