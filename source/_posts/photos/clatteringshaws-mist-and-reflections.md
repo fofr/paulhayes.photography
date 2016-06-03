@@ -2,6 +2,7 @@ layout: photo
 title: "Clatteringshaws"
 date: 2015-09-19 07:20
 travel: http://sam-and-paul.com/2015/09/southern-scotland/6/
+flickr: https://www.flickr.com/photos/prhayes/27441898665/
 
 exif: true
 camera: "Canon EOS 70D"

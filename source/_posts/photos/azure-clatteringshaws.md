@@ -2,6 +2,7 @@ layout: photo
 title: "Azure"
 date: 2015-09-17 09:29
 travel: http://sam-and-paul.com/2015/09/southern-scotland/4/
+flickr: https://www.flickr.com/photos/prhayes/27407651416/
 
 exif: true
 camera: "Canon EOS 70D"

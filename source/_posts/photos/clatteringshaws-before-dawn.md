@@ -3,6 +3,7 @@ title: "Clatteringshaws before dawn"
 date: 2015-09-19 06:30
 500px: https://500px.com/photo/156926931/clatteringshaws-by-paul-hayes
 travel: http://sam-and-paul.com/2015/09/southern-scotland/6/
+flickr: https://www.flickr.com/photos/prhayes/26834499243/
 
 exif: true
 camera: "Canon EOS 70D"
