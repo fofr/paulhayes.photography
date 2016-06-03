@@ -1,5 +1,5 @@
 layout: photo
-title: Clatteringshaws at Dawn
+title: Clatteringshaws at dawn
 date: 2015-09-19 06:47
 instagram: https://instagram.com/p/8eIXgXtFBW/
 500px: https://500px.com/photo/124133543/clatteringshaws-by-paul-hayes
