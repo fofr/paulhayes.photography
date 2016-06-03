@@ -9,7 +9,6 @@ tags:
   - sussex
   - landscape
   - sea
-  - long-exposure
 ---
 
 A Brighton favourite, and one of the south’s most photographed landmarks. Living in Brighton, and just a short walk from the sea, the opportunity to wander down and photograph this icon is often hard to pass up.
@@ -34,14 +33,10 @@ A long exposure at dawn on Halloween. The skies were a beautiful pink, and my 3-
 A tighter crop of the pier, on a cold winter’s morning.
 {% endphoto %}
 
-When the tide is higher, a popular alternative is to include the concrete groin to the pier’s left. Both of the shots below were taken on the same evening, and the beach was crowded with photographers and their tripods.
+When the tide is higher, a popular alternative is to include the concrete groin to the pier’s left.
 
 {% photo west-pier-hot-and-cold %}
 I like the cyan-orange juxtaposition in this shot. Soon after the sunset the heaven’s opened and the beach emptied.
-{% endphoto %}
-
-{% photo west-pier-vanilla-sky %}
-The tide, on its way out, left a few shallow reflecting pools on the groin to pick out the colour of the sky.
 {% endphoto %}
 
 ## Seagulls
