@@ -1,6 +1,6 @@
 <% if (photo.exif) { %>
   <div class="photo-footer">
-    <code><% if (photo.hdr) { %>HDR &middot; <% } %><span title="Aperture"><%= photo.aperture %></span> &middot; <span title="Shutter speed"><%= photo.shutter %></span> &middot; <span title="ISO">ISO <%= photo.iso %></span><% if (photo.focal) { %> &middot; <span title="Focal length"><%= photo.focal %></span><% } %></code><br />
+    <code><% if (photo.hdr) { %>HDR &middot; <% } %><span title="Aperture"><%= photo.aperture %></span> &middot; <span title="Shutter speed"><%= photo.shutter %>s</span> &middot; <span title="ISO">ISO <%= photo.iso %></span><% if (photo.focal) { %> &middot; <span title="Focal length"><%= photo.focal %></span><% } %></code><br />
     <code><%= photo.camera %> &middot; <%= photo.lens %></code>
   </div>
 <% } %>
