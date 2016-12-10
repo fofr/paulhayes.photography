@@ -19,6 +19,7 @@ tags:
   - forest
   - wakehurst-place
   - landscape
+  - shortlisted
 ---
 
-Late afternoon at Wakehurst Place.
+Late afternoon at Wakehurst Place. Shortlisted in Landscape Photographer of the Year 2016, in the “[Adult classic view](http://www.take-a-view.co.uk/2016-award-winners/)”&nbsp;category. It narrowly missed out on the final selection.

@@ -18,6 +18,9 @@ tags:
   - fox
   - evening
   - summer
+  - shortlisted
 ---
+
+__Shortlisted in Outdoor Photographer of the Year 2015 (OPOTY), “[Wildlife insight](http://www.opoty.co.uk/pages/2015%2Bwinners/)” category.__
 
 The evening light at the British Wildlife Centre was perfect, I couldn’t have asked for anything better. Lying down in the grass, I angled the camera upwards to capture the warm orange fur of the fox which formed a glowing halo.

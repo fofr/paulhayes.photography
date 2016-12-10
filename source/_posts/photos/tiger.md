@@ -20,6 +20,9 @@ tags:
   - tiger
   - big-cat
   - cat
+  - awards
 ---
+
+__An editor’s pick in National Geographic’s “[Daily Dozen](http://yourshot.nationalgeographic.com/daily-dozen/2015-04-14/)”, 14 April 2015.__
 
 A female sumatran tiger approaches through the bamboo. This is Puna, one of the many wonderful cats at the Big Cat Sanctuary (also known as The Wildlife Heritage Foundation) in Kent.

@@ -20,6 +20,9 @@ tags:
   - polecat
   - evening
   - summer
+  - shortlisted
 ---
+
+__Shortlisted in Outdoor Photographer of the Year 2015 (OPOTY), “[Wildlife insight](http://www.opoty.co.uk/pages/2015%2Bwinners/)” category.__
 
 This polecat, at the British Wildlife Centre, was dancing about, very rarely stopping for anything. For a split second it raised its head in just the right position, the warm midsummer light catching its face through the yellow flowers.
