@@ -1,6 +1,6 @@
 <%
  links = []
- if (photo.travel) { links.push({ name: "Sam and Paul blog post",           url: photo.travel }); }
+ if (photo.travel) { links.push({ name: "Paul’s travel blog",           url: photo.travel }); }
  if (photo.natgeo)    { links.push({ name: "National Geographic", url: photo.natgeo }); }
  if (photo.twitter)   { links.push({ name: "@phayesphoto tweet",  url: photo.twitter }); }
  if (photo.flickr)    { links.push({ name: "Flickr",              url: photo.flickr }); }
@@ -8,7 +8,8 @@
  if (photo.instagram) { links.push({ name: "Instagram",           url: photo.instagram }); }
 
  if (links.length > 0) { %>
+<h2>Elsewhere on the web</h2>
 <p>
-  <% for(var i = 0, l = links.length; i < l; i++) { %><% if (i > 0) { %>, <% } %><a href="<%= links[i].url %>" rel="alternate"><%= links[i].name %></a><% } %>
+  Find this image on <% for(var i = 0, l = links.length; i < l; i++) { %><% if (i > 0) { %>, <% } %><a href="<%= links[i].url %>" rel="alternate"><%= links[i].name %></a><% } %>
 </p>
 <% } %>

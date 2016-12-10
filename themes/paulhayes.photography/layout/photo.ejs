@@ -17,6 +17,8 @@
       <%- photo.content %>
     </div>
     <div class="photo-meta">
+      <h2>Purchase</h2>
+      <p><a href="/contact?prints">Order prints</a><br /><a href="/contact?licences">Licence photo</a></p>
       <%- partial('_partial/photo/external', {photo: photo}) %>
       <%- partial('_partial/photo/exif', {photo: photo}) %>
       <%- partial('_partial/photo/tags', {photo: photo}) %>
