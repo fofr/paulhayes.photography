@@ -219,54 +219,31 @@ a:active {
  ========================================================================== */
 
 .masthead {
-  position: relative;
-  margin-top: 80px;
-  font-size: 1.6em;
-  line-height: 1em;
+  margin-top: 100px;
+  margin-bottom: 60px;
 }
 
-.masthead-home {
-  overflow: hidden;
-  width: 485px;
-  margin-top: 100px;
-  margin-bottom: 100px;
+.masthead-title {
+  font-weight: bold;
+  font-size: 2.5em;
+  line-height: 1em;
+  color: #000;
 }
 
 @media all and (max-width: 840px) {
   .masthead {
     margin-left: 30px;
     margin-right: 30px;
-  }
-
-  .masthead-home {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
+  }}
 
 @media all and (max-width: 540px) {
-  .masthead-home {
-    overflow: visible;
-    text-align: center;
-    width: auto;
-    margin-left: 30px;
-    margin-right: 30px;
+  .masthead {
+    margin-top: 72px;
+    margin-bottom: 43px;
   }
-}
 
-.masthead-title {
-  font-weight: bold;
-  color: #000;
-}
-
-.masthead-logo {
-  float: right;
-  max-width: 100%;
-}
-
-@media all and (max-width: 540px) {
-  .masthead-logo {
-    float: none;
+  .masthead-title {
+    font-size: 1.8em;
   }
 }
 
@@ -351,12 +328,6 @@ a:active {
   width: 860px;
 }
 
-.home-pullout .photo-image-wrapper {
-  border: 5px solid #ddd;
-  padding: 36px;
-  background: #fff;
-}
-
 .home-pullout-left {
   width: 60%;
   float: left;
@@ -364,6 +335,10 @@ a:active {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.home-pullout-left .photo-image-wrapper {
+  margin-bottom: 30px;
 }
 
 .home-pullout-right {
@@ -380,10 +355,6 @@ a:active {
 }
 
 @media all and (max-width: 700px) {
-  .home-pullout .photo-image-wrapper {
-    padding: 15px;
-  }
-
   .home-pullout-right,
   .home-pullout-left {
     width: 50%

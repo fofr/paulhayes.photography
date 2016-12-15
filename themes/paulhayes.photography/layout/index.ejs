@@ -1,9 +1,12 @@
-<% photos = getPhotosBySlug(['tiger']); %>
+<%
+  rightPhotos = getPhotosBySlug(['tiger']);
+  leftPhotos = getPhotosBySlug(['brighton-pavilion-twilight', 'west-pier-dreamy']);
+%>
 <main role="main">
   <div class="clearfix container home-pullout">
     <div class="home-pullout-left">
-      <% for (var i = 0, l = photos.length; i < l; i++) {
-        photo = photos[i];
+      <% for (var i = 0, l = leftPhotos.length; i < l; i++) {
+        photo = leftPhotos[i];
       %>
         <div class="photo-image-wrapper">
           <a href="<%= photo.path %>">
@@ -13,30 +16,28 @@
       <% } %>
     </div>
     <div class="home-pullout-right">
-      <div class="article-content">
-        <p>Paul Hayes is a nature photographer in&nbsp;Sussex.</p>
-        <ul>
-          <li><a href="https://twitter.com/phayesphoto">Twitter - @phayesphoto</a></li>
-          <li><a href="https://www.flickr.com/photos/prhayes/">Flickr</a></li>
-          <li><a href="https://www.instagram.com/fofr/">Instagram</a></li>
-          <li><a href="https://500px.com/fofr">500px</a></li>
-        </ul>
-      </div>
-
-      <%- partial('_partial/archive', {type: 'blog', limit: 1}) %>
+      <% for (var i = 0, l = rightPhotos.length; i < l; i++) {
+        photo = rightPhotos[i];
+      %>
+        <div class="photo-image-wrapper">
+          <a href="<%= photo.path %>">
+            <img src="<%= photo.image %>" class="photo-image" alt="<%= photo.title %>" />
+          </a>
+        </div>
+      <% } %>
     </div>
   </div>
 
   <div class="container">
     <h2 class="home-gallery-title main-content-title page-title">Recent photos</h2>
 
-    <%- partial('_partial/archive', {type: 'photo', limit: 8}) %>
+    <%- partial('_partial/archive', {type: 'photo', limit: 12}) %>
   </div>
 
   <div class="container">
     <h2 class="home-gallery-title main-content-title page-title">Recent albums</h2>
 
-    <%- partial('_partial/archive', {type: 'album', limit: 3}) %>
+    <%- partial('_partial/archive', {type: 'album', limit: 6}) %>
   </div>
 
   <div class="container">
