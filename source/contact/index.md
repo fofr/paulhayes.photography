@@ -18,7 +18,7 @@ All photos are copyright Paul Hayes. Licences for use on the web, in print, or o
 
 * [Twitter - @phayesphoto](https://twitter.com/phayesphoto)
 * [Flickr](https://www.flickr.com/photos/prhayes/)
-* [Instagram](https://www.instagram.com/fofr/)
+* [Instagram](https://www.instagram.com/paulhayes.photography/)
 * [500px](https://500px.com/fofr)
 
 When not taking photos I build websites.
