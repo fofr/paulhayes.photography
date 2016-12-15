@@ -2,7 +2,7 @@ title: 'Contact'
 layout: 'page'
 ---
 
-Email me at: {% contact %}
+Email me: {% contact %}
 
 ## Prints
 
