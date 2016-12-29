@@ -7,9 +7,16 @@ hexo.extend.filter.register('before_post_render', function(data) {
     data.filename = filename;
     data.image = dir + '1720/' + filename;
     data.albumImage = dir + '860/' + filename;
-    data.squareThumbnail = dir + 'square/380/' + filename;
-    data.openGraphImage = dir + 'watermarked/1720/' + filename;
-    data.twitterImage = dir + 'watermarked/435/' + filename;
+
+    if (data.layout == "blog") {
+      data.openGraphImage = dir + 'blog/860/' + filename;
+      data.twitterImage = dir + 'blog/435/' + filename;
+    } else {
+      data.squareThumbnail = dir + 'square/380/' + filename;
+      data.openGraphImage = dir + 'watermarked/1720/' + filename;
+      data.twitterImage = dir + 'watermarked/435/' + filename;
+    }
   }
+
   return data;
 });
