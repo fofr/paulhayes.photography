@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "neuzeit-grotesk", "Helvetica Neue", Arial, sans-serif;
 }
 
-p, ul, ol, dl, table {
+p, ul, ol, dl, table, figure {
   margin-bottom: 1.33333333em;
   line-height: 1.33333333em;
 }
@@ -234,7 +234,8 @@ a:active {
   .masthead {
     margin-left: 30px;
     margin-right: 30px;
-  }}
+  }
+}
 
 @media all and (max-width: 540px) {
   .masthead {
@@ -756,4 +757,42 @@ time.published {
   .album-photo {
     margin-right: -30px;
   }
+}
+
+/* ==========================================================================
+ Blog posts
+ ========================================================================== */
+
+.generated-figure {
+  overflow: hidden;
+  background: #eee;
+  margin: 40px -40px
+}
+
+@media all and (max-width: 840px) {
+  .generated-figure {
+    margin-left: -30px;
+    margin-right: -30px;
+  }
+}
+
+.generated-figure figcaption {
+  padding: 10px 40px;
+  margin-top: -7px;
+  font-size: 0.75em;
+  text-align: left;
+}
+
+.generated-figure img {
+  max-width: 100%;
+}
+
+.generated-figure--portrait {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.generated-figure--portrait img {
+  max-height: 500px;
+  margin: 0 auto;
 }
