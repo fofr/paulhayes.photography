@@ -2,7 +2,7 @@ layout: photo
 title: "Sleepwalking"
 date: 2016-08-09 16:40
 instagram: https://www.instagram.com/p/BI78KJsgLsP/
-travel: http://sam-and-paul.com/2016/08/north-island-seychelles/
+travel: https://sam-and-paul.com/2016/08/north-island-seychelles/
 
 exif: true
 camera: "Canon EOS 70D"
@@ -23,4 +23,4 @@ tags:
 
 Night time on a secluded beach on North Island, Seychelles. While I waited for green turtles to emerge I watched the clouds and stars alone. It felt like a dream.
 
-I worked as a wildlife conservation volunteer [for 4 weeks](http://sam-and-paul.com/2016/08/north-island-seychelles/) on North Island.
+I worked as a wildlife conservation volunteer [for 4 weeks](https://sam-and-paul.com/2016/08/north-island-seychelles/) on North Island.

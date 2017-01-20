@@ -22,4 +22,4 @@ All photos are copyright Paul Hayes. Licences for use on the web, in print, or o
 * [500px](https://500px.com/fofr)
 
 When not taking photos I build websites.
-[paulrhayes.com](http://paulrhayes.com/)
+[paulrhayes.com](https://paulrhayes.com/)

@@ -1,7 +1,7 @@
 layout: photo
 title: "Azure"
 date: 2015-09-17 09:29
-travel: http://sam-and-paul.com/2015/09/southern-scotland/4/
+travel: https://sam-and-paul.com/2015/09/southern-scotland/4/
 flickr: https://www.flickr.com/photos/prhayes/27407651416/
 
 exif: true
@@ -20,7 +20,7 @@ tags:
   - lake
 ---
 
-An excerpt from my [travel blog](http://sam-and-paul.com/2015/09/southern-scotland/4/):
+An excerpt from my [travel blog](https://sam-and-paul.com/2015/09/southern-scotland/4/):
 
 > We were aiming for the Red Deer Park, but were stopped by the perfectly still and reflecting Clatteringshaws reservoir.
 

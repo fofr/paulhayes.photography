@@ -2,7 +2,7 @@ layout: photo
 title: "Fox at dusk"
 date: 2014-06-25 18:35
 flickr: https://www.flickr.com/photos/prhayes/14334398000/
-500px: http://500px.com/photo/75799135/fox-at-dusk-by-paul-hayes
+500px: https://500px.com/photo/75799135/fox-at-dusk-by-paul-hayes
 
 exif: true
 camera: "Canon EOS 500D"

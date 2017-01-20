@@ -3,7 +3,7 @@ title: Purple Murmuration
 date: 2015-03-14 19:08
 500px: https://500px.com/photo/101798431/purple-murmuration-by-paul-hayes
 flickr: https://www.flickr.com/photos/prhayes/16789578236/
-natgeo: http://yourshot.nationalgeographic.com/photos/5596295/
+natgeo: https://yourshot.nationalgeographic.com/photos/5596295/
 instagram: https://instagram.com/p/0OYZ8_NFKH/
 
 exif: true

@@ -21,7 +21,7 @@ Seen from North Island in the Seychelles, this is a composite of 10 shots, each 
 {% endphoto %}
 
 {% photo kielder-observatory %}
-Kielder Observatory, the ‘Obsy’, beneath the Big Dipper constellation. [Taken on an astrophotography evening](http://sam-and-paul.com/2015/09/kielder-northumberland/2).
+Kielder Observatory, the ‘Obsy’, beneath the Big Dipper constellation. [Taken on an astrophotography evening](https://sam-and-paul.com/2015/09/kielder-northumberland/2).
 {% endphoto %}
 
 {% photo our-galaxy %}

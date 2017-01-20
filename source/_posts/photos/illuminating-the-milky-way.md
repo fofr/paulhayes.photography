@@ -2,8 +2,8 @@ layout: photo
 title: Illuminating The Milky Way
 date: 2015-09-16
 500px: https://500px.com/photo/126850703/illuminating-the-milky-way-by-paul-hayes
-natgeo: http://yourshot.nationalgeographic.com/photos/7099973/
-travel: http://sam-and-paul.com/2015/09/southern-scotland/2/
+natgeo: https://yourshot.nationalgeographic.com/photos/7099973/
+travel: https://sam-and-paul.com/2015/09/southern-scotland/2/
 
 exif: true
 camera: "Canon EOS 70D"

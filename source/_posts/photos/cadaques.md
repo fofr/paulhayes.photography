@@ -1,7 +1,7 @@
 layout: photo
 title: "Cadaques"
 date: 2010-08-31 10:45
-travel: http://sam-and-paul.com/2010/10/cadaques-spain/
+travel: https://sam-and-paul.com/2010/10/cadaques-spain/
 
 exif: true
 camera: "Canon EOS 500D"
@@ -20,7 +20,7 @@ tags:
   - beach
 ---
 
-An excerpt from [my travel blog](http://sam-and-paul.com/2010/10/cadaques-spain/):
+An excerpt from [my travel blog](https://sam-and-paul.com/2010/10/cadaques-spain/):
 
 > Cadaques just oozes serenity, waves wash against small beaches and coves, scooters whiz along the one-way beach roads whilst golden brown Spaniards light up and coolly puff their smoke into the air.
 

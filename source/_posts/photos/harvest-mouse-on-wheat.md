@@ -2,8 +2,8 @@ layout: photo
 title: "Harvest mouse on wheat"
 date: 2014-06-25 16:54
 flickr: https://www.flickr.com/photos/prhayes/14724105217/
-500px: http://500px.com/photo/79634811/harvest-mouse-on-wheat-by-paul-hayes
-instagram: http://instagram.com/p/rr3QLztFNj/
+500px: https://500px.com/photo/79634811/harvest-mouse-on-wheat-by-paul-hayes
+instagram: https://instagram.com/p/rr3QLztFNj/
 
 exif: true
 camera: "Canon EOS 500D"

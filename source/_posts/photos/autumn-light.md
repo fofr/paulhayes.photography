@@ -4,7 +4,7 @@ date: 2016-11-02 15:12
 flickr: https://www.flickr.com/photos/prhayes/30719158346/
 instagram: https://www.instagram.com/p/BMU14Ehgr3q/
 500px: https://500px.com/photo/181076653/autumn-light-by-paul-hayes
-natgeo: http://yourshot.nationalgeographic.com/photos/9228476/
+natgeo: https://yourshot.nationalgeographic.com/photos/9228476/
 
 exif: true
 camera: "Canon EOS 70D"

@@ -1,7 +1,7 @@
 layout: photo
 title: "Clatteringshaws"
 date: 2015-09-19 07:20
-travel: http://sam-and-paul.com/2015/09/southern-scotland/6/
+travel: https://sam-and-paul.com/2015/09/southern-scotland/6/
 flickr: https://www.flickr.com/photos/prhayes/27441898665/
 
 exif: true
@@ -20,6 +20,6 @@ tags:
   - lake
 ---
 
-The last day on our [Scotland road trip](http://sam-and-paul.com/2015/09/southern-scotland/6/):
+The last day on our [Scotland road trip](https://sam-and-paul.com/2015/09/southern-scotland/6/):
 
 > We stayed here for hours, taking pictures, watching the sunrise, seeing the fog build in the distant valleys, and enjoying the dancing displays of early morning swifts on the water.

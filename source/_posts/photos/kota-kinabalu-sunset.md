@@ -2,8 +2,8 @@ layout: photo
 title: "Sunset in Kota Kinabalu"
 date: 2014-03-23 10:52
 flickr: https://www.flickr.com/photos/prhayes/14229790106/
-instagram: http://instagram.com/p/l_k0Y-tFIG/
-500px: http://500px.com/photo/75799127/sunset-in-kota-kinabalu-by-paul-hayes
+instagram: https://instagram.com/p/l_k0Y-tFIG/
+500px: https://500px.com/photo/75799127/sunset-in-kota-kinabalu-by-paul-hayes
 travel: http://www.sam-and-paul.com/2014/05/shangri-la-rasa-ria-borneo/
 
 exif: true

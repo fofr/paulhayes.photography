@@ -1,7 +1,7 @@
 layout: photo
 title: "West Beach, North Island"
 date: 2016-08-08 11:39
-travel: http://sam-and-paul.com/2016/08/north-island-seychelles/
+travel: https://sam-and-paul.com/2016/08/north-island-seychelles/
 
 exif: true
 camera: "Canon EOS 70D"
@@ -20,4 +20,4 @@ tags:
   - paradise
 ---
 
-The far-end of North Island’s pristine West Beach. This was [my home for 4 weeks](http://sam-and-paul.com/2016/08/north-island-seychelles/) while volunteering on the island. Each morning I patrolled the beach looking for turtle emergences and new nests.
+The far-end of North Island’s pristine West Beach. This was [my home for 4 weeks](https://sam-and-paul.com/2016/08/north-island-seychelles/) while volunteering on the island. Each morning I patrolled the beach looking for turtle emergences and new nests.

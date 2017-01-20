@@ -4,7 +4,7 @@ date: 2015-02-21 07:44
 flickr: https://www.flickr.com/photos/prhayes/16413034550/
 500px: https://500px.com/photo/99622445/west-pier-by-paul-hayes
 instagram: https://instagram.com/p/zXFDcOtFA1/
-natgeo: http://yourshot.nationalgeographic.com/photos/5495416/
+natgeo: https://yourshot.nationalgeographic.com/photos/5495416/
 
 exif: true
 camera: "Canon EOS 70D"

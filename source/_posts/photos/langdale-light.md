@@ -1,7 +1,7 @@
 layout: photo
 title: Little Langdale
 date: 2015-09-21
-travel: http://sam-and-paul.com/2015/09/lake-district/3/
+travel: https://sam-and-paul.com/2015/09/lake-district/3/
 
 exif: true
 camera: "Canon EOS 70D"

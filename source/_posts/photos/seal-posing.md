@@ -3,7 +3,7 @@ title: Seal Posing
 date: 2015-09-15 16:09
 instagram: https://www.instagram.com/p/9ndm7BNFMM/
 500px: https://500px.com/photo/127463781/seal-posing-by-paul-hayes
-travel: http://sam-and-paul.com/2015/09/southern-scotland/2/
+travel: https://sam-and-paul.com/2015/09/southern-scotland/2/
 
 exif: true
 camera: "Canon EOS 500D"

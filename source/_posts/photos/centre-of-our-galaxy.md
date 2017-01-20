@@ -3,7 +3,7 @@ title: "Centre of our galaxy"
 date: 2016-08-03
 flickr: https://www.flickr.com/photos/prhayes/28745230366/
 500px: https://500px.com/photo/168838941/milky-way-and-mars-by-paul-hayes
-travel: http://sam-and-paul.com/2016/08/north-island-seychelles/
+travel: https://sam-and-paul.com/2016/08/north-island-seychelles/
 
 exif: true
 camera: "Canon EOS 70D"
