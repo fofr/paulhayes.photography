@@ -12,7 +12,11 @@ RewriteRule ^201\d-\d{2}/(.*)$ /photos/$1 [R=301,NC,L]
 # Avoid www. in URL
 RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Redirect http to https
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R,L]
 
 AddCharset UTF-8 .html .json
 AddType application/json .json
