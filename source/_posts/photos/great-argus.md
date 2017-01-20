@@ -3,7 +3,7 @@ title: "Great Argus"
 date: 2014-03-30 02:23
 flickr: https://www.flickr.com/photos/prhayes/14252850944/
 500px: https://500px.com/photo/76305381/great-argus-by-paul-hayes
-travel: http://sam-and-paul.com/2014/05/borneo-rainforest-lodge/4/
+travel: https://sam-and-paul.com/2014/05/borneo-rainforest-lodge/4/
 
 exif: true
 camera: "Canon EOS 500D"

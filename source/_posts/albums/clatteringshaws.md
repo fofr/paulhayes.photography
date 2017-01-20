@@ -12,7 +12,7 @@ Clatteringshaws Loch can be found in Dumfries and Galloway, in Galloway Forest P
 
 Arriving an hour before dawn, we wandered to the water's edge from the visitor centre. The forecast had said clear skies and low winds, which we hoped meant mist and reflections. A chilly 3C, we arrived to find plumes of mist rolling off the water and a mirror-like reflection.
 
-A full account of our “Southern Scotland” road-trip is available on my [travel blog](http://sam-and-paul.com/2015/09/southern-scotland/).
+A full account of our “Southern Scotland” road-trip is available on my [travel blog](https://sam-and-paul.com/2015/09/southern-scotland/).
 
 {% photo clatteringshaws-before-dawn %}
 Arriving under darkness, the place was still; a solitary tent was pitched on the beach, the water was still, and small plumes of mist were rolling around its surface.

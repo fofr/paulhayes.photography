@@ -4,7 +4,7 @@ date: 2014-09-25 04:45
 flickr: https://www.flickr.com/photos/prhayes/15692606071/
 500px: https://500px.com/photo/88377361/striped-blue-crow-butterfly-by-paul-hayes
 instagram: https://instagram.com/p/tZGMztNFHY/
-travel: http://sam-and-paul.com/2014/09/longsheng-rice-terraces-china/2/
+travel: https://sam-and-paul.com/2014/09/longsheng-rice-terraces-china/2/
 
 exif: true
 camera: "Canon EOS 70D"
@@ -25,4 +25,4 @@ tags:
   - asia
 ---
 
-Spotted on the trail from Ping’an village to Zhuang village in the [Longsheng rice terraces](http://sam-and-paul.com/2014/09/longsheng-rice-terraces-china/2/). There were thousands of butterflies, but only one of these gorgeous creatures.
+Spotted on the trail from Ping’an village to Zhuang village in the [Longsheng rice terraces](https://sam-and-paul.com/2014/09/longsheng-rice-terraces-china/2/). There were thousands of butterflies, but only one of these gorgeous creatures.

@@ -12,7 +12,7 @@ tags:
   - highlands
 ---
 
-For my 30th birthday, in the cold grips of winter, I was treated to a trip up to Ullapool in the remote north-west of Scotland, for two days of photography with [Ian Cameron](http://www.transientlight.co.uk/). Full details of our trip are available on [my travel blog](http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/).
+For my 30th birthday, in the cold grips of winter, I was treated to a trip up to Ullapool in the remote north-west of Scotland, for two days of photography with [Ian Cameron](http://www.transientlight.co.uk/). Full details of our trip are available on [my travel blog](https://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/).
 
 {% photo loch-assynt %}
 At dawn, a balmy -7C, we waited for the sun to come up. The light began to change, the edges of the clouds started to catch the earliest light and turn pink.

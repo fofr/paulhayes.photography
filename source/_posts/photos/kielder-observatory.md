@@ -2,7 +2,7 @@ layout: photo
 title: Observatory under the stars
 date: 2015-09-13 21:00
 twitter: https://twitter.com/phayesphoto/status/657305924382695424
-travel: http://sam-and-paul.com/2015/09/kielder-northumberland/
+travel: https://sam-and-paul.com/2015/09/kielder-northumberland/
 
 exif: true
 camera: "Canon EOS 70D"
@@ -23,4 +23,4 @@ tags:
   - northumberland
 ---
 
-Kielder Observatory, the ‘Obsy’, beneath the Big Dipper constellation. [Taken on an astrophotography evening](http://sam-and-paul.com/2015/09/kielder-northumberland/2).
+Kielder Observatory, the ‘Obsy’, beneath the Big Dipper constellation. [Taken on an astrophotography evening](https://sam-and-paul.com/2015/09/kielder-northumberland/2).

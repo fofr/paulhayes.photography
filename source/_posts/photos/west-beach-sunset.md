@@ -1,7 +1,7 @@
 layout: photo
 title: "West Beach Sunset"
 date: 2016-08-17 14:15
-travel: http://sam-and-paul.com/2016/08/north-island-seychelles/
+travel: https://sam-and-paul.com/2016/08/north-island-seychelles/
 
 exif: true
 camera: "Canon EOS 70D"
@@ -21,6 +21,6 @@ tags:
   - sunset
 ---
 
-North Island is a remote private island in Seychelles. I was lucky enough to volunteer here as a wildlife conservationist for [4 weeks](http://sam-and-paul.com/2016/08/north-island-seychelles/). West Beach is almost always empty, and I enjoyed many quiet sunsets by the sea, like this one.
+North Island is a remote private island in Seychelles. I was lucky enough to volunteer here as a wildlife conservationist for [4 weeks](https://sam-and-paul.com/2016/08/north-island-seychelles/). West Beach is almost always empty, and I enjoyed many quiet sunsets by the sea, like this one.
 
 The ring of wooden stakes in the foreground is a Green Turtle nest, it's been marked out to prevent people from walking over it.
