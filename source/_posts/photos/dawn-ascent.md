@@ -2,8 +2,8 @@ layout: photo
 title: "Dawn ascent"
 date: 2014-08-09 06:46
 flickr: https://www.flickr.com/photos/prhayes/14879645092/
-500px: http://500px.com/photo/79297067/dawn-ascent-by-paul-hayes
-instagram: http://instagram.com/p/riJsi2tFJ3/
+500px: https://500px.com/photo/79297067/dawn-ascent-by-paul-hayes
+instagram: https://instagram.com/p/riJsi2tFJ3/
 
 exif: true
 camera: "Canon EOS 70D"

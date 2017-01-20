@@ -2,9 +2,9 @@ layout: photo
 title: "Harvest mouse"
 date: 2014-06-25 16:47
 flickr: https://www.flickr.com/photos/prhayes/14517665541/
-500px: http://500px.com/photo/75807293/harvest-mouse-by-paul-hayes
-instagram: http://instagram.com/p/p3m8uWNFDe/
-natgeo: http://yourshot.nationalgeographic.com/photos/5186922/
+500px: https://500px.com/photo/75807293/harvest-mouse-by-paul-hayes
+instagram: https://instagram.com/p/p3m8uWNFDe/
+natgeo: https://yourshot.nationalgeographic.com/photos/5186922/
 
 exif: true
 camera: "Canon EOS 500D"

@@ -22,4 +22,4 @@ tags:
   - cat
 ---
 
-This is Xizi, a female Amur Leopard. [Amur Leopards](http://en.wikipedia.org/wiki/Amur_leopard) are a critically endangered species with as few as 50 left in the wild. Shot at the wonderful [Big Cat Sanctuary](http://www.whf.org.uk/) in Kent.
+This is Xizi, a female Amur Leopard. [Amur Leopards](https://en.wikipedia.org/wiki/Amur_leopard) are a critically endangered species with as few as 50 left in the wild. Shot at the wonderful [Big Cat Sanctuary](https://whf.org.uk/) in Kent.

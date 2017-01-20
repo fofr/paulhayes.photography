@@ -3,7 +3,7 @@ title: "Striped blue crow butterfly"
 date: 2014-09-25 04:45
 flickr: https://www.flickr.com/photos/prhayes/15692606071/
 500px: https://500px.com/photo/88377361/striped-blue-crow-butterfly-by-paul-hayes
-instagram: http://instagram.com/p/tZGMztNFHY/
+instagram: https://instagram.com/p/tZGMztNFHY/
 travel: http://sam-and-paul.com/2014/09/longsheng-rice-terraces-china/2/
 
 exif: true

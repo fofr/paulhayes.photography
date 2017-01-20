@@ -3,7 +3,7 @@ title: Loch Assynt
 date: 2015-01-19 10:48
 flickr: https://www.flickr.com/photos/prhayes/16153716870/
 500px: https://500px.com/photo/96613491/ruins-on-loch-assynt-by-paul-hayes
-natgeo: http://yourshot.nationalgeographic.com/photos/5258264/
+natgeo: https://yourshot.nationalgeographic.com/photos/5258264/
 instagram: https://instagram.com/p/yFxFmQNFKV/
 travel: http://sam-and-paul.com/2015/01/landscape-photography-scottish-highlands/
 

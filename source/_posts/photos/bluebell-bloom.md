@@ -3,7 +3,7 @@ title: Bluebell Bloom
 date: 2016-04-20 18:34
 flickr: https://www.flickr.com/photos/prhayes/26464194312/
 500px: https://500px.com/photo/150226461/bluebells-by-paul-hayes
-natgeo: http://yourshot.nationalgeographic.com/photos/8149309/
+natgeo: https://yourshot.nationalgeographic.com/photos/8149309/
 instagram: https://www.instagram.com/p/BEcEBxltFA_/
 twitter: https://twitter.com/phayesphoto/status/724488443749928961
 

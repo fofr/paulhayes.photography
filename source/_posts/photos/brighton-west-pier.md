@@ -2,7 +2,7 @@ layout: photo
 title: "Brighton’s West Pier"
 date: 2014-01-14 16:44
 flickr: https://www.flickr.com/photos/prhayes/12019456376/
-500px: http://500px.com/photo/75799125/brighton%E2%80%99s-west-pier-by-paul-hayes
+500px: https://500px.com/photo/75799125/brighton%E2%80%99s-west-pier-by-paul-hayes
 
 exif: true
 camera: "Canon EOS 500D"

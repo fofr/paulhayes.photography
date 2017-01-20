@@ -3,8 +3,8 @@ title: "Mirror lake at Jiuzhaigou"
 date: 2014-09-18 06:58
 flickr: https://www.flickr.com/photos/prhayes/15303637430/
 500px: https://500px.com/photo/85919363/mirror-lake-at-jiuzhaigou-by-paul-hayes
-instagram: http://instagram.com/p/t8diXvNFGh/
-natgeo: http://yourshot.nationalgeographic.com/photos/4628595/
+instagram: https://instagram.com/p/t8diXvNFGh/
+natgeo: https://yourshot.nationalgeographic.com/photos/4628595/
 travel: http://sam-and-paul.com/2014/09/jiuzhaigou-huanglong-china/2/
 
 exif: true

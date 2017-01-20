@@ -2,9 +2,9 @@ layout: photo
 title: "Tawny owl"
 date: 2014-06-25 19:17
 flickr: https://www.flickr.com/photos/prhayes/14901756036/
-500px: http://500px.com/photo/79638215/tawny-owl-by-paul-hayes
-instagram: http://instagram.com/p/rtx6O0NFKN/
-natgeo: http://yourshot.nationalgeographic.com/photos/5402237/
+500px: https://500px.com/photo/79638215/tawny-owl-by-paul-hayes
+instagram: https://instagram.com/p/rtx6O0NFKN/
+natgeo: https://yourshot.nationalgeographic.com/photos/5402237/
 
 exif: true
 camera: "Canon EOS 500D"

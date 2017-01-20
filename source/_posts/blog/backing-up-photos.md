@@ -11,14 +11,14 @@ How do I backup gigabytes of photos safely?
 
 ## External hard-drives
 
-I have two 4tb external drives, and I use [Seagate](http://amzn.to/1NV27l0) drives after an unreliable Western Digital one gave up when it was too young. One of these drives is a backup of the other, and the two are kept in sync.
+I have two 4tb external drives, and I use [Seagate](https://amzn.to/1NV27l0) drives after an unreliable Western Digital one gave up when it was too young. One of these drives is a backup of the other, and the two are kept in sync.
 
 I keep the two drives synchronised using a UNIX tool called [Rsync](https://en.wikipedia.org/wiki/Rsync) – it’s for synchronising files. I run the following script (all on one line) from a [terminal on my Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/):
 ```
 rsync -av /Volumes/[hard drive name]/ /Volumes/[backup hard drive]/
 ```
 
-The `-a` means [archive mode](http://serverfault.com/questions/141773/what-is-archive-mode-in-rsync), it’s the perfect option for backups. The `-v` simply means `verbose`. It will display on screen what it’s doing.
+The `-a` means [archive mode](https://serverfault.com/questions/141773/what-is-archive-mode-in-rsync), it’s the perfect option for backups. The `-v` simply means `verbose`. It will display on screen what it’s doing.
 
 If something has been deleted or moved on the main hard drive, those changes will also appear on the backup. If you’re not sure what’s going to happen when you run the script (perhaps you deleted something you shouldn’t have), you can do a "dry run", which changes nothing, but tells you what it would have done:
 

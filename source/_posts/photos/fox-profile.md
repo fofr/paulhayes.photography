@@ -2,7 +2,7 @@ layout: photo
 title: "Fox prowling at dusk"
 date: 2014-06-25 18:30
 flickr: https://www.flickr.com/photos/prhayes/14517664861/
-500px: http://500px.com/photo/75799137/fox-prowling-at-dusk-by-paul-hayes
+500px: https://500px.com/photo/75799137/fox-prowling-at-dusk-by-paul-hayes
 
 exif: true
 camera: "Canon EOS 500D"

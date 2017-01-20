@@ -10,7 +10,7 @@ tags:
 
 ---
 
-Using red light at night preserves your eyes’ adaptation to the dark. Many iPhone apps come with a red night mode, especially those used for stargazing. However the operating system and other apps still appear bright and blue – even with [night shift](http://www.independent.co.uk/life-style/gadgets-and-tech/news/ios-93-how-to-switch-on-night-shift-the-iphone-mode-meant-to-help-people-go-to-sleep-a6956846.html) enabled. A bright flash from your phone and you need to let your eyes adapt to the darkness again.
+Using red light at night preserves your eyes’ adaptation to the dark. Many iPhone apps come with a red night mode, especially those used for stargazing. However the operating system and other apps still appear bright and blue – even with [night shift](https://www.independent.co.uk/life-style/gadgets-and-tech/news/ios-93-how-to-switch-on-night-shift-the-iphone-mode-meant-to-help-people-go-to-sleep-a6956846.html) enabled. A bright flash from your phone and you need to let your eyes adapt to the darkness again.
 
 Use a red colour filter to put your iPhone and all apps into a red night mode, to let you use your phone and preserve your night vision. It’s useful for astrophotography, in the dark room, or simply using your phone at night.
 
@@ -22,7 +22,7 @@ An iPhone with a red colour filter enabled
 
 When out at night it takes a while for your eyes to acclimatise to darkness. The cone cells in your eyes, those that process colour, take 10 minutes to optimise, while the rods – more sensitive and vital for night vision, [can take up to 40 minutes to adapt to conditions](http://sciencequestionswithsurprisinganswers.org/2013/08/09/how-long-does-it-take-our-eyes-to-fully-adapt-to-darkness/). If you’re stargazing, when your eyes are ready so many more stars are visible and the night sky appears fuller.
 
-When light levels are low your eyes use only the rods to see. Things appear in black and white only, are less sharp, and it’s hard to see detail. When you need to read, or do something precise, a little extra light helps. Red light activates your cone cells to allow you to see detail, without de-sensitising your rod cells, which you’re using for night vision. Rod cells in your eyes are not sensitive to red light. This is the [Purkinje effect](https://en.wikipedia.org/wiki/Purkinje_effect). That's why we use [red light headlamps](http://amzn.to/2hslF0y) and apps have red-only night modes. It’s why red colour filters on your iPhone are really useful.
+When light levels are low your eyes use only the rods to see. Things appear in black and white only, are less sharp, and it’s hard to see detail. When you need to read, or do something precise, a little extra light helps. Red light activates your cone cells to allow you to see detail, without de-sensitising your rod cells, which you’re using for night vision. Rod cells in your eyes are not sensitive to red light. This is the [Purkinje effect](https://en.wikipedia.org/wiki/Purkinje_effect). That's why we use [red light headlamps](https://amzn.to/2hslF0y) and apps have red-only night modes. It’s why red colour filters on your iPhone are really useful.
 
 ## Create a red colour filter
 
