@@ -6,7 +6,7 @@ include ExifHelper
 
 # Get list of all posts
 path_to_images = "#{Dir.pwd}/../paulhayes.photography-photos/"
-posts = Dir.glob("source/_posts/*.md")
+posts = Dir.glob("source/_posts/photos/*.md")
 
 posts.each do |post|
   post_contents = File.read(post)
