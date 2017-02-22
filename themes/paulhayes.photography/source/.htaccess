@@ -1,6 +1,15 @@
 Options -Indexes
 ErrorDocument 404 /404.html
 
+ExpiresActive On
+ExpiresByType image/jpg "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/gif "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType text/css "access plus 1 month"
+ExpiresByType application/javascript "access plus 1 month"
+ExpiresByType text/html "access plus 7 days"
+
 RewriteEngine On
 RewriteRule ^email/?$ /contact/ [R=301,NC,L]
 RewriteRule ^feed/ /atom.xml [R=301,NC,L]
