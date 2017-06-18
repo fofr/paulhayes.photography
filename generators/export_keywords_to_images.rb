@@ -115,7 +115,9 @@ images = [
   # ["west-pier-rust.jpg", %w{west_pier birds abstract}, %w{rust}],
   # ["west-pier-sunset.jpg", %w{west_pier sunset}, %w{silhouette sun}],
   # ["wild-goat.jpg", %w{wildlife scotland}, %w{}, %w{goat wild_goat}, %w{chewing eating looking staring}],
-  ["playing-with-the-stars.jpg", %w{milky_way seychelles portrait}, %w{self_portrait}],
+  # ["playing-with-the-stars.jpg", %w{milky_way seychelles portrait}, %w{self_portrait}],
+  ["tawny-owl-bluebells.jpg", %w{bird forest bluebells uk}, %w{owl tawny_owl}, %w{flying in_forest}],
+  ["harvest-mouse-thistle.jpg", %w{mammal england}, %w{thistle precarious}, %w{mouse harvest_mouse micromys}, %w{climbing balancing on_thistle}],
 ]
 
 images.each do |image|
