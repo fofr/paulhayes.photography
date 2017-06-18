@@ -18,7 +18,14 @@
     </div>
     <div class="photo-meta">
       <h2>Purchase</h2>
-      <p><a href="/contact?prints">Order prints</a><br /><a href="/contact?licences">Licence photo</a></p>
+      <p>
+        <a href="/contact?prints">Order prints</a>
+        <% if (!photo.licence_message) { %>
+          <br /><a href="/contact?licences">Licence photo</a>
+        <% } else { %>
+          <br /><%= photo.licence_message %>
+        <% } %>
+      </p>
       <%- partial('_partial/photo/external', {photo: photo}) %>
       <% if (photo.exif) { %>
         <h2>Metadata</h2>

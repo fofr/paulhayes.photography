@@ -5,6 +5,7 @@ flickr: https://www.flickr.com/photos/prhayes/17089555625/
 500px: https://500px.com/photo/104331355/tiger-by-paul-hayes
 instagram: https://instagram.com/p/1OjpPytFN4/
 natgeo: https://yourshot.nationalgeographic.com/photos/5768228/
+licence_message: "Not available for licensing"
 
 exif: true
 camera: "Canon EOS 70D"
