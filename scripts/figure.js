@@ -26,9 +26,10 @@
   {% endfigure}
 */
 
-var jsdom = require('jsdom').jsdom,
-    window = jsdom("").parentWindow,
-    $ = require('jquery')(window);
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+const { window } = new JSDOM("");
+var $ = require('jquery')(window);
 
 hexo.extend.tag.register('figure', function(args, content) {
 
