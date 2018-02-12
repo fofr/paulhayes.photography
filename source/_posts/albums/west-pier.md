@@ -17,6 +17,10 @@ A Brighton favourite, and one of the south’s most photographed landmarks. Livi
 A sunset in February 2015, during a particularly low tide.
 {% endphoto %}
 
+{% photo west-pier-twilight %}
+A windy twilight down by the West Pier in February 2018.
+{% endphoto %}
+
 ## Classic shot
 
 To get the _classic_ shot, it's best to position yourself between the last of the remaining supports, with the tide just about touching your toes. If the tide goes out beyond that you’ll start to get some ugly low-lying wreckage in your shot, too high and you’ll need to include the supports – and you’ll notice they don’t quite line up with the centre of the pier.
