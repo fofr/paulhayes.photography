@@ -4,7 +4,9 @@ db.json
 debug.log
 node_modules/
 public/
-deploy/
 source/images/
 assets/
 google*.html
+
+# Hexo edited config file
+*.yml-e
