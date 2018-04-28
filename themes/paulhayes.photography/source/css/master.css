@@ -544,10 +544,6 @@ a:active {
   margin-bottom: 5px;
 }
 
-.site-footer a {
-  text-decoration: none;
-}
-
 .site-footer a:hover,
 .site-footer a:focus {
   text-decoration: underline;
