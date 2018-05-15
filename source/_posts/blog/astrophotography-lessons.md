@@ -1,5 +1,5 @@
 layout: blog
-title: Trying Astrophotography lessons in East Sussex
+title: Astrophotography lessons in East Sussex
 date: 2018-05-15
 
 description: "I’d like to trial a hands-on Astrophotography workshop with a few photographers in Sussex, based either at Seven Sisters or up on Devil’s Dyke."
