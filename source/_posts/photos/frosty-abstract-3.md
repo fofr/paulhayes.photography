@@ -19,4 +19,4 @@ tags:
   - abstract
 ---
 
-One in a [set of abstracts](/albums/frosty-abstract-lindfield/) taken on a frosty morning in Lindfield.
+Taken on a frosty morning in Lindfield.
