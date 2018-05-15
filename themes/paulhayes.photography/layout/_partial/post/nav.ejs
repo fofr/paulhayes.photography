@@ -1,19 +1,22 @@
 <%
-  while (post.prev && post.prev.layout != post.layout) {
-    post.prev = post.prev.prev || null;
+  prev = post.prev
+  next = post.next
+
+  while (prev && prev.layout != post.layout) {
+    prev = prev.prev || null;
   }
 
-  while (post.next && post.next.layout != post.layout) {
-    post.next = post.next.next || null;
+  while (next && next.layout != post.layout) {
+    next = next.next || null;
   }
 %>
-<% if (post.prev || post.next) { %>
+<% if (prev || next) { %>
   <nav>
-    <% if (post.prev) { %>
-      <a href="<%- config.root %><%- post.prev.path %>" rel="next" data-key="left" class="nav-arrow nav-arrow-left" title="Use left and right keys to navigate">&larr; <span class="rm"> Next photo </span></a>
+    <% if (prev) { %>
+      <a href="<%- config.root %><%- prev.path %>" rel="next" data-key="left" class="nav-arrow nav-arrow-left" title="Use left and right keys to navigate">&larr; <span class="rm"> Next photo </span></a>
     <% } %>
-    <% if (post.next) { %>
-      <a href="<%- config.root %><%- post.next.path %>" rel="prev" data-key="right" class="nav-arrow nav-arrow-right" title="Use left and right keys to navigate"><span class="rm"> Previous photo</span> &rarr;</a>
+    <% if (next) { %>
+      <a href="<%- config.root %><%- next.path %>" rel="prev" data-key="right" class="nav-arrow nav-arrow-right" title="Use left and right keys to navigate"><span class="rm"> Previous photo</span> &rarr;</a>
     <% } %>
   </nav>
 <% } %>
