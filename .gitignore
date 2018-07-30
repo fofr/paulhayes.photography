@@ -5,7 +5,7 @@ debug.log
 node_modules/
 public/
 source/images/
-assets/
+assets/old-logo
 google*.html
 
 # Hexo edited config file
