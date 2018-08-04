@@ -4,6 +4,7 @@ date: 2015-09-18 08:55
 instagram: https://www.instagram.com/p/-E511SNFGp/
 travel: https://sam-and-paul.com/2015/09/southern-scotland/5/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 500D"
 lens: "Canon EF 70-200mm f/4L IS"

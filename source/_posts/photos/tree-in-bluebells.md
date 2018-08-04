@@ -7,6 +7,7 @@ instagram: https://www.instagram.com/p/BEcCiCKtFOd/
 natgeo: https://yourshot.nationalgeographic.com/photos/8162856/
 twitter: https://twitter.com/phayesphoto/status/723935177915940864
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"

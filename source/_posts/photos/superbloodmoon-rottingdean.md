@@ -4,6 +4,7 @@ dark: true
 date: 2015-09-28
 instagram: https://instagram.com/p/8T6QeiNFOT/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"

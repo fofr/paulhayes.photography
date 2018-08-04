@@ -4,6 +4,7 @@ date: 2015-02-18 18:31
 500px: https://500px.com/photo/99391791/brighton-starlings-by-paul-hayes
 instagram: https://instagram.com/p/zSHkQmNFAy/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"

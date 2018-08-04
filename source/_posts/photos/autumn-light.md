@@ -6,6 +6,7 @@ instagram: https://www.instagram.com/p/BMU14Ehgr3q/
 500px: https://500px.com/photo/181076653/autumn-light-by-paul-hayes
 natgeo: https://yourshot.nationalgeographic.com/photos/9228476/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"

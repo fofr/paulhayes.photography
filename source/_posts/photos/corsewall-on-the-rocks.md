@@ -3,6 +3,7 @@ title: Corsewall on the rocks
 date: 2015-09-16 10:20
 travel: https://sam-and-paul.com/2015/09/southern-scotland/2/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 500D"
 lens: "Canon EF-S 10-22mm f/3.5-4.5 USM"

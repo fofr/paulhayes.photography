@@ -5,6 +5,7 @@ flickr: https://www.flickr.com/photos/prhayes/16931733590/
 instagram: https://instagram.com/p/1VC_YrtFOr/
 500px: https://500px.com/photo/104676917/amur-leopard-by-paul-hayes
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"
