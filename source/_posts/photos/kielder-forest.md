@@ -5,6 +5,7 @@ instagram: https://instagram.com/p/5bibitNFAo/
 flickr: https://www.flickr.com/photos/prhayes/19297451863/
 travel: https://sam-and-paul.com/2015/09/kielder-northumberland/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"

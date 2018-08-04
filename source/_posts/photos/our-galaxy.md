@@ -5,6 +5,7 @@ date: 2015-08-08
 flickr: https://www.flickr.com/photos/prhayes/20419767112/
 instagram: https://instagram.com/p/6KCmk-tFKs/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"

@@ -3,6 +3,7 @@ title: "Starry arch"
 date: 2016-08-22 18:00
 travel: https://sam-and-paul.com/2016/08/north-island-seychelles/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Samyang 24mm f/1.4 ED AS UMC"

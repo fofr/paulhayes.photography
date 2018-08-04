@@ -219,7 +219,6 @@ a:active {
  ========================================================================== */
 
 .masthead {
-  margin-top: 100px;
   margin-bottom: 60px;
 }
 
@@ -268,6 +267,37 @@ a:active {
 .photo-title,
 .page-title {
   margin: 0 0 24px;
+}
+
+.logo {
+  max-width: 100%;
+  margin-top: -10%;
+  margin-bottom: -10%;
+}
+
+.watermark-logo {
+  max-width: 50%;
+  width: 18%;
+  position: absolute;
+  bottom: 10px;
+  left: 30px;
+  right: 0;
+  filter: drop-shadow(1px 1px 3px rgba(0,0,0,0.9));
+}
+
+@media all and (max-width: 500px) {
+  .watermark-logo {
+    width: 25%;
+    left: 20px;
+    bottom: 0;
+    filter: drop-shadow(1px 1px 2px rgba(0,0,0,1));
+  }
+}
+
+.photo-orientation-portrait .watermark-logo {
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
 }
 
 /* ==========================================================================
@@ -537,7 +567,7 @@ a:active {
   font-size: 0.8em;
   padding: 60px 0 1.66666667em; /* 32/24px */
   clear: both;
-  margin: 2em 0 0;
+  margin: 2em 0;
 }
 
 .site-footer p {

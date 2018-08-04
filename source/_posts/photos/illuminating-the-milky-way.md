@@ -5,6 +5,7 @@ date: 2015-09-16
 natgeo: https://yourshot.nationalgeographic.com/photos/7099973/
 travel: https://sam-and-paul.com/2015/09/southern-scotland/2/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"

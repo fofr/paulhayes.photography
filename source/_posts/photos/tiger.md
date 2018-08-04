@@ -7,6 +7,7 @@ instagram: https://instagram.com/p/1OjpPytFN4/
 natgeo: https://yourshot.nationalgeographic.com/photos/5768228/
 licence_message: "Not available for licensing"
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"

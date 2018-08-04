@@ -4,6 +4,7 @@ date: 2016-11-02 14:53
 flickr: https://www.flickr.com/photos/prhayes/31159585782/
 instagram: https://www.instagram.com/p/BMVy5FcgEgM/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 17-40mm f/4L USM"

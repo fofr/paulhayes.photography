@@ -1,6 +1,9 @@
 <nav class="site-nav" role="navigation">
   <div class="container">
-    <% if (!is_home()) { %><a href="/" class="site-home strong">Paul Hayes Photography</a><% } %>
+    <% if (!is_home()) { %>
+      <a href="/" class="site-home strong">
+        Paul Hayes Photography
+      </a><% } %>
     <div class="site-parts">
       <a href="/albums/">Albums</a>
       <a href="/photos/">Photos</a>
@@ -11,6 +14,10 @@
 </nav>
 <% if (is_home()) { %>
   <header class="masthead container">
-    <h1 class="masthead-title">Paul Hayes<br />Photography</h1>
+    <h1>
+      <img src="/images/logo-black.svg" class="logo" alt="Paul Hayes Photography logo"/>
+      <span class="rm">Paul Hayes Photography</span>
+    </h1>
+
   </header>
 <% } %>

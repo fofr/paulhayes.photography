@@ -6,6 +6,7 @@ instagram: https://www.instagram.com/p/BFIvQBLNFOm/
 500px: https://500px.com/photo/153637641/grey-wagtail-by-paul-hayes
 twitter: https://twitter.com/phayesphoto/status/729197048873005057
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"

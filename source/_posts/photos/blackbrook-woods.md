@@ -2,6 +2,7 @@ layout: photo
 title: "Blackbrook woods"
 date: 2016-04-20 19:10
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"

@@ -6,6 +6,7 @@ flickr: https://www.flickr.com/photos/prhayes/26259743495/
 twitter: https://twitter.com/phayesphoto/status/717464063127773184
 travel: https://sam-and-paul.com/2016/03/monteverde-costa-rica/2/
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 400mm f/5.6L USM"

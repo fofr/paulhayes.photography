@@ -6,6 +6,7 @@ instagram: https://www.instagram.com/p/BDu4zd5tFBM/
 500px: https://500px.com/photo/147566519/portrait-of-a-pheasant-by-paul-hayes
 twitter: https://twitter.com/phayesphoto/status/716654771227271169
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"

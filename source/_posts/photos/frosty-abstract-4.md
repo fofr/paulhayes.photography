@@ -2,6 +2,7 @@ layout: photo
 title: "Frosty abstract 4"
 date: 2017-01-05 08:52
 
+orientation: portrait
 exif: true
 camera: "Canon EOS 70D"
 lens: "Canon EF 70-200mm f/4L IS"
