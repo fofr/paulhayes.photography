@@ -9,8 +9,9 @@
         <%= photo.title %>
       </h1>
     </header>
-    <div class="photo-image-wrapper photo-beyond-margins">
+    <div class="photo-image-wrapper photo-beyond-margins <% if (photo.orientation) { %>photo-orientation-<%= photo.orientation %><% } %>">
       <img src="<%= photo.image %>" class="photo-image" alt="<%= photo.title %>" />
+      <img src="/images/logo-white.svg" class="watermark-logo" alt="Paul Hayes Photography logo"/>
       <%- partial('_partial/post/nav', {post: photo}) %>
     </div>
     <div class="article-content photo-content">
