@@ -4,7 +4,6 @@
 <main role="main">
   <article class="container single-photo clearfix" id="photo">
     <header class="article-header">
-      <%- partial('_partial/post/published', {post: photo, link: true}) %>
       <h1 class="main-content-title photo-title">
         <%= photo.title %>
       </h1>
@@ -18,7 +17,25 @@
       <%- photo.content %>
     </div>
     <div class="photo-meta">
-      <h2>Purchase</h2>
+      <h2 class="photo-meta-heading">Buy prints</h2>
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Size</th>
+            <th>Cost</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>A3</td>
+            <td>£50</td>
+            <td><a href="#">Purchase</a></td>
+          </tr>
+        </tbody>
+      </table>
+
       <p>
         <a href="/contact?prints">Order prints</a>
         <% if (!photo.licence_message) { %>
@@ -29,7 +46,7 @@
       </p>
       <%- partial('_partial/photo/external', {photo: photo}) %>
       <% if (false && photo.exif) { %>
-        <h2>Metadata</h2>
+        <h2 class="photo-meta-heading">Metadata</h2>
         <%- partial('_partial/photo/exif', {photo: photo}) %>
       <% } %>
       <%- partial('_partial/photo/tags', {photo: photo}) %>

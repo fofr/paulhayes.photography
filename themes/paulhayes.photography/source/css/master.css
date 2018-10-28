@@ -621,6 +621,30 @@ a:active {
 }
 
 /* ==========================================================================
+ Tables
+ ========================================================================== */
+
+ .table {
+   width: 100%;
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+
+ .table th {
+   font-weight: bold;
+   border-bottom: 2px solid #000;
+ }
+
+ .table td {
+   border-bottom: 2px solid #eee;
+ }
+
+ .table td,
+ .table th {
+   padding: 5px;
+ }
+
+/* ==========================================================================
  Photos
  ========================================================================== */
 
@@ -632,7 +656,7 @@ a:active {
 
 .photo-image-wrapper {
   min-height: 100px;
-  background: #eee;
+  background: #000;
   position: relative;
   line-height: 0;
   text-align: center;
@@ -640,6 +664,13 @@ a:active {
 
 .photo-beyond-margins {
   margin: 0 -40px;
+}
+
+.photo-meta-heading {
+  font-size: 1.5em;
+  line-height: 1em;
+  margin-bottom: 20px;
+  margin-top: 40px;
 }
 
 .article-tag-list {
@@ -671,10 +702,6 @@ time.published {
 
 .photo-content {
   margin-top: 42px;
-}
-
-.photo-meta {
-  font-size: 0.75em;
 }
 
 .photo-footer {
