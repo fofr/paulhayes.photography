@@ -18,6 +18,7 @@ tags:
   - wildlife
   - elephant
   - south-africa
+  - tembe
 ---
 
 An African elephant photographed while volunteering in Tembe Elephant Park, South Africa. An excerpt from [my travel blog](https://sam-and-paul.com/tembe-elephant-park/2/):
