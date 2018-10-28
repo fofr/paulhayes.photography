@@ -285,6 +285,10 @@ a:active {
   filter: drop-shadow(1px 1px 3px rgba(0,0,0,0.9));
 }
 
+.photo-hide-watermark .watermark-logo {
+  display: none;
+}
+
 @media all and (max-width: 500px) {
   .watermark-logo {
     width: 25%;

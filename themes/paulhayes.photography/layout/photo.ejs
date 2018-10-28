@@ -9,7 +9,7 @@
         <%= photo.title %>
       </h1>
     </header>
-    <div class="photo-image-wrapper photo-beyond-margins <% if (photo.orientation) { %>photo-orientation-<%= photo.orientation %><% } %>">
+    <div class="photo-image-wrapper photo-beyond-margins<% if (photo.hide_watermark) { %> photo-hide-watermark<% } %><% if (photo.orientation) { %> photo-orientation-<%= photo.orientation %><% } %>">
       <img src="<%= photo.image %>" class="photo-image" alt="<%= photo.title %>" />
       <img src="/images/logo-white.svg" class="watermark-logo" alt="Paul Hayes Photography logo"/>
       <%- partial('_partial/post/nav', {post: photo}) %>
