@@ -2,7 +2,7 @@ require 'time'
 
 module ExifHelper
   def date(exif)
-    exif.date_time_original.strftime('%Y-%m-%d %H:%M')
+    exif.date_time_original.strftime('%Y-%m-%d %H:%M') if exif.date_time_original
   end
 
   def camera(exif)
